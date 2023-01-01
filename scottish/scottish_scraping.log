@@ -1,0 +1,343 @@
+2022-12-29 21:46:38,663:INFO:====== WebDriver manager ======
+2022-12-29 21:46:38,966:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2022-12-29 21:46:39,426:INFO:Driver [C:\Users\PC\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2022-12-29 21:46:40,424:INFO:Webdriver setup done.
+2022-12-29 21:46:44,035:INFO:20 different tables found.
+2022-12-29 21:46:44,035:INFO:Iterating through each table
+2022-12-29 21:46:57,450:INFO:Ready to scrape
+2022-12-29 21:46:57,820:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/drug-and-alcohol-treatment-waiting-times/resource/c16b6f2a-fc4d-4542-bb39-a0861b880b9e
+2022-12-29 21:47:02,644:INFO:Downloaded and saved files from table Number of Referrals
+2022-12-29 21:47:11,629:INFO:Ready to scrape
+2022-12-29 21:47:11,791:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/weekly-covid-19-statistical-data-in-scotland/resource/6f0f189f-0f4a-4939-84dc-0f41cce5435c
+2022-12-29 21:47:12,566:INFO:Downloaded and saved files from table Daily and Cumulative Cases
+2022-12-29 21:47:20,975:INFO:Ready to scrape
+2022-12-29 21:47:21,145:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/hospital-onset-covid-19-cases-in-scotland/resource/5acbccb1-e9d6-4ab2-a7ac-f3e4d378e7ec
+2022-12-29 21:47:21,799:INFO:Downloaded and saved files from table Hospital Onset COVID-19
+2022-12-29 21:47:30,306:INFO:Ready to scrape
+2022-12-29 21:47:30,552:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/covid-19-wider-impacts-antenatal-bookings/resource/9c18196f-56a5-4847-b7d8-12a8b8d234fd
+2022-12-29 21:47:31,657:INFO:Downloaded and saved files from table Antenatal bookings by Health Board
+2022-12-29 21:47:40,133:INFO:Ready to scrape
+2022-12-29 21:47:40,364:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/covid-19-wider-impacts-cardiovascular-activity/resource/205363a9-af6f-4eb6-8284-dc2e4b4607e4
+2022-12-29 21:47:40,934:INFO:Downloaded and saved files from table A&E Cardiovascular Activity By Age
+2022-12-29 21:47:50,424:INFO:Ready to scrape
+2022-12-29 21:47:50,680:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/prescriptions-in-the-community/resource/0bc89016-e791-4a8a-9b2f-5bcffc402ce5
+2022-12-29 21:50:18,168:INFO:====== WebDriver manager ======
+2022-12-29 21:50:18,454:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2022-12-29 21:50:19,131:INFO:Driver [C:\Users\PC\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2022-12-29 21:50:20,117:INFO:Webdriver setup done.
+2022-12-29 21:50:23,613:INFO:15 different tables found.
+2022-12-29 21:50:23,613:INFO:Iterating through each table
+2022-12-29 21:50:42,579:INFO:Ready to scrape
+2022-12-29 21:50:42,844:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/prescriptions-in-the-community/resource/0bc89016-e791-4a8a-9b2f-5bcffc402ce5
+2022-12-29 21:51:24,402:INFO:====== WebDriver manager ======
+2022-12-29 21:51:24,712:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2022-12-29 21:51:25,210:INFO:Driver [C:\Users\PC\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2022-12-29 21:51:26,199:INFO:Webdriver setup done.
+2022-12-29 21:51:29,731:INFO:15 different tables found.
+2022-12-29 21:51:29,731:INFO:Iterating through each table
+2022-12-29 21:51:45,596:INFO:Ready to scrape
+2022-12-29 21:51:45,869:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/prescriptions-in-the-community/resource/0bc89016-e791-4a8a-9b2f-5bcffc402ce5
+2022-12-29 21:56:40,977:INFO:====== WebDriver manager ======
+2022-12-29 21:56:41,248:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2022-12-29 21:56:41,870:INFO:Driver [C:\Users\PC\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2022-12-29 21:56:42,856:INFO:Webdriver setup done.
+2022-12-29 21:56:46,260:INFO:14 different tables found.
+2022-12-29 21:56:46,260:INFO:Iterating through each table
+2022-12-29 21:57:00,852:INFO:Ready to scrape
+2022-12-29 21:57:01,076:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/allied-health-professionals-musculoskeletal-waiting-times/resource/3988df43-3516-4190-93da-16189db7329a
+2022-12-29 21:57:07,103:INFO:Downloaded and saved files from table Patients Referred
+2022-12-29 21:57:15,808:INFO:Ready to scrape
+2022-12-29 21:58:05,671:INFO:====== WebDriver manager ======
+2022-12-29 21:58:05,970:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2022-12-29 21:58:06,525:INFO:Driver [C:\Users\PC\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2022-12-29 21:58:07,526:INFO:Webdriver setup done.
+2022-12-29 21:58:10,863:INFO:12 different tables found.
+2022-12-29 21:58:10,863:INFO:Iterating through each table
+2022-12-29 21:58:25,255:INFO:Ready to scrape
+2022-12-29 21:58:25,599:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/dispenser-location-contact-details/resource/d91ab27c-b5d4-4157-897f-bb6439ce768a
+2022-12-29 21:58:29,795:INFO:Downloaded and saved files from table Dispenser Details July 2022
+2022-12-29 21:58:38,602:INFO:Ready to scrape
+2022-12-29 21:58:38,909:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/covid-19-wider-impacts-termination-of-pregnancy/resource/5a00501e-b78a-40d6-b3e1-d77508866b9c
+2022-12-29 21:58:39,746:INFO:Downloaded and saved files from table Terminations by Health Board
+2022-12-29 21:58:48,867:INFO:Ready to scrape
+2022-12-29 21:58:50,185:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/community-pharmacy-contractor-activity/resource/39fe35f5-3af9-42ae-a791-c13a0c2a3e09
+2022-12-29 21:58:55,297:INFO:Downloaded and saved files from table Contractor Activity - 2022
+2022-12-29 21:59:04,799:INFO:Ready to scrape
+2022-12-29 21:59:04,998:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/primary-1-body-mass-index-bmi-statistics/resource/458dd759-5c38-4784-865f-ec11d354c88a
+2022-12-29 21:59:05,645:INFO:Downloaded and saved files from table Data Quality at Health Board Level
+2022-12-29 21:59:14,645:INFO:Ready to scrape
+2022-12-29 21:59:14,912:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/prescribed-dispensed/resource/239e55b9-de1b-43cb-aa7d-9fedda76d200
+2022-12-29 22:01:21,796:INFO:Downloaded and saved files from table Prescribed & Dispensed 2022
+2022-12-29 22:01:33,516:INFO:Ready to scrape
+2022-12-29 22:01:33,747:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/flu-covid-vaccinations/resource/2c11d860-efbc-4ce7-8740-20bdd10f62ef
+2022-12-29 22:01:34,376:INFO:Downloaded and saved files from table COVID - all delivered
+2022-12-29 22:01:43,616:INFO:Ready to scrape
+2022-12-29 22:01:43,923:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/cancer-waiting-times/resource/58527343-a930-4058-bf9e-3c6e5cb04010
+2022-12-29 22:01:46,269:INFO:Downloaded and saved files from table Cancer Wait Time - 31 Day Standard
+2022-12-29 22:01:55,562:INFO:Ready to scrape
+2022-12-29 22:01:55,811:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/cancelled-planned-operations/resource/bcc860a4-49f4-4232-a76b-f559cf6eb885
+2022-12-29 22:01:56,445:INFO:Downloaded and saved files from table Cancellations by Hospital
+2022-12-29 22:02:05,745:INFO:Ready to scrape
+2022-12-29 22:02:06,179:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/covid-19-wider-impacts-method-of-delivery/resource/7996d72a-b8a1-4236-b66b-42e3c828a547
+2022-12-29 22:02:06,899:INFO:Downloaded and saved files from table Method of Delivery by Health Board
+2022-12-29 22:02:16,147:INFO:Ready to scrape
+2022-12-29 22:02:16,460:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/childhood-immunisation-statistics/resource/209b1648-8b67-44c4-9513-1c28104a17f2
+2022-12-29 22:02:17,087:INFO:Downloaded and saved files from table Scotland - Quarterly
+2022-12-29 22:02:27,022:INFO:Ready to scrape
+2022-12-29 22:02:27,561:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/covid-19-in-scotland/resource/7fad90e5-6f19-455b-bc07-694a22f8d5dc
+2022-12-29 22:02:28,165:INFO:Downloaded and saved files from table Total Cases By Health Board
+2022-12-29 22:02:37,093:INFO:Ready to scrape
+2022-12-29 22:02:37,552:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/covid-19-wider-impacts-gestation-at-delivery/resource/f00851fb-8798-4612-a891-aab1d7403586
+2022-12-29 22:02:38,175:INFO:Downloaded and saved files from table Gestation Data by Health Board
+2022-12-29 22:08:18,888:INFO:====== WebDriver manager ======
+2022-12-29 22:08:19,188:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2022-12-29 22:08:19,931:INFO:Driver [C:\Users\PC\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2022-12-29 22:08:20,926:INFO:Webdriver setup done.
+2022-12-29 22:08:24,347:INFO:21 different tables found.
+2022-12-29 22:08:24,347:INFO:Iterating through each table
+2022-12-29 22:08:43,642:INFO:Ready to scrape
+2022-12-29 22:08:44,062:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/scottish-stroke-statistics/resource/47656572-e196-40c8-83e8-08b0b223b2e6
+2022-12-29 22:08:51,976:INFO:Downloaded and saved files from table Stroke Activity By Health Board
+2022-12-29 22:09:01,521:INFO:Ready to scrape
+2022-12-29 22:09:03,218:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/27-30-month-review-statistics/resource/018ba0e1-6562-43bb-82c5-97b6c6cc22d8
+2022-12-29 22:09:08,326:INFO:Downloaded and saved files from table Review by Council Areas
+2022-12-29 22:09:17,804:INFO:Ready to scrape
+2022-12-29 22:09:18,025:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/long-acting-reversible-methods-of-contraception-larc-in-scotland/resource/a2e1e94c-9e39-480e-9644-c6d380ae9dea
+2022-12-29 22:09:18,639:INFO:Downloaded and saved files from table LARC By Age Group
+2022-12-29 22:09:29,529:INFO:Ready to scrape
+2022-12-29 22:09:29,863:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/geography-codes-and-labels/resource/e92d19d4-ced7-40c8-b628-e28e4528fc41
+2022-12-29 22:09:34,169:INFO:Downloaded and saved files from table Data Zone 2001
+2022-12-29 22:09:45,374:INFO:Ready to scrape
+2022-12-29 22:09:45,644:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/care-home-census/resource/4ee7dc84-ca65-455c-9e76-b614091f389f
+2022-12-29 22:09:47,335:INFO:Downloaded and saved files from table Average Weekly Charges
+2022-12-29 22:10:29,786:INFO:====== WebDriver manager ======
+2022-12-29 22:10:30,101:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2022-12-29 22:10:30,693:INFO:Driver [C:\Users\PC\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2022-12-29 22:10:31,742:INFO:Webdriver setup done.
+2022-12-29 22:10:35,132:INFO:15 different tables found.
+2022-12-29 22:10:35,132:INFO:Iterating through each table
+2022-12-29 22:11:01,532:INFO:Ready to scrape
+2022-12-29 22:11:07,515:INFO:====== WebDriver manager ======
+2022-12-29 22:11:07,786:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2022-12-29 22:11:08,420:INFO:Driver [C:\Users\PC\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2022-12-29 22:11:09,404:INFO:Webdriver setup done.
+2022-12-29 22:11:12,857:INFO:15 different tables found.
+2022-12-29 22:11:12,857:INFO:Iterating through each table
+2022-12-29 22:11:37,180:INFO:Ready to scrape
+2022-12-29 22:11:48,535:INFO:====== WebDriver manager ======
+2022-12-29 22:11:48,897:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2022-12-29 22:11:49,530:INFO:Driver [C:\Users\PC\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2022-12-29 22:11:50,578:INFO:Webdriver setup done.
+2022-12-29 22:11:53,942:INFO:14 different tables found.
+2022-12-29 22:11:53,942:INFO:Iterating through each table
+2022-12-29 22:12:07,249:INFO:Ready to scrape
+2022-12-29 22:14:19,104:INFO:====== WebDriver manager ======
+2022-12-29 22:14:19,409:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2022-12-29 22:14:20,039:INFO:Driver [C:\Users\PC\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2022-12-29 22:14:21,041:INFO:Webdriver setup done.
+2022-12-29 22:14:26,517:INFO:14 different tables found.
+2022-12-29 22:14:26,517:INFO:Iterating through each table
+2022-12-29 22:14:39,814:INFO:Ready to scrape
+2022-12-29 22:15:32,801:INFO:====== WebDriver manager ======
+2022-12-29 22:15:33,117:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2022-12-29 22:15:33,595:INFO:Driver [C:\Users\PC\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2022-12-29 22:15:34,594:INFO:Webdriver setup done.
+2022-12-29 22:15:37,907:INFO:14 different tables found.
+2022-12-29 22:15:37,907:INFO:Iterating through each table
+2022-12-29 22:15:59,885:INFO:Ready to scrape
+2022-12-29 22:16:10,771:INFO:Ready to scrape
+2022-12-29 22:16:12,213:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/early-child-development-13-15-month-review-statistics/resource/1a96a615-ee1f-4841-a96a-31b86e9aeb2d
+2022-12-29 22:16:13,038:INFO:Downloaded and saved files from table Review by Council Area
+2022-12-29 22:16:22,228:INFO:Ready to scrape
+2022-12-29 22:16:22,540:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/scottish-drug-misuse-database/resource/e096573f-b828-4e8d-abf2-84f94345a751
+2022-12-29 22:16:23,375:INFO:Downloaded and saved files from table SDMD By Health Board and Demographics
+2022-12-29 22:16:33,762:INFO:Ready to scrape
+2022-12-29 22:16:34,253:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/drug-and-alcohol-treatment-waiting-times-archived/resource/00c5bfc4-d7b4-4a08-b119-c38825406d2e
+2022-12-29 22:16:34,845:INFO:Downloaded and saved files from table Completed Waits by NHS Board
+2022-12-29 22:16:45,727:INFO:Ready to scrape
+2022-12-29 22:16:46,313:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/alcohol-related-hospital-statistics-scotland/resource/29452b1f-a7be-4e93-9e22-dfa120c2df26
+2022-12-29 22:16:49,688:INFO:Downloaded and saved files from table ARHS by Age & Gender
+2022-12-29 22:16:58,981:INFO:Ready to scrape
+2022-12-29 22:16:59,164:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/the-scottish-public-health-observatory-suicide-overview/resource/a6bd971a-077b-4bca-92d8-4476f4903e77
+2022-12-29 22:16:59,816:INFO:Downloaded and saved files from table Suicide Statistics By Health Board
+2022-12-29 22:17:12,319:INFO:Ready to scrape
+2022-12-29 22:17:12,631:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/palliative-and-end-of-life-care/resource/3b68cad8-a4ba-4aeb-908a-f731e5380aea
+2022-12-29 22:17:13,463:INFO:Downloaded and saved files from table By Health Board of Residence
+2022-12-29 22:17:22,757:INFO:Ready to scrape
+2022-12-29 22:17:22,924:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/covid-19-education-surveillance/resource/7caee5e0-d1bf-46fa-87e0-bfd7197b315e
+2022-12-29 22:17:24,493:INFO:Downloaded and saved files from table Cases among Children
+2022-12-29 22:17:34,054:INFO:Ready to scrape
+2022-12-29 22:17:35,252:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/nhsscotland-payments-to-general-practice/resource/79b1c49b-da32-4f71-adb1-355174e2db89
+2022-12-29 22:17:37,299:INFO:Downloaded and saved files from table GP Payments 2020/21
+2022-12-29 22:17:48,218:INFO:Ready to scrape
+2022-12-29 22:17:49,802:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/early-child-development-4-5-year-review-statistics/resource/64a8b965-9d36-4584-90ab-b367e9c823da
+2022-12-29 22:17:50,909:INFO:Downloaded and saved files from table Review by Council Area
+2022-12-29 22:18:00,330:INFO:Ready to scrape
+2022-12-29 22:18:00,559:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/nhs-scotland-accident-emergency-sites/resource/1a4e3f48-3d9b-4769-80e9-3ef6d27852fe
+2022-12-29 22:18:01,178:INFO:Downloaded and saved files from table Accident & Emergency Sites
+2022-12-29 22:18:10,463:INFO:Ready to scrape
+2022-12-29 22:18:10,782:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/nhs-smoking-cessation-service-statistics-scotland/resource/a020dc7b-750d-4170-9472-9901a514912b
+2022-12-29 22:18:11,549:INFO:Downloaded and saved files from table Smoking Cessation by Gender and Age
+2022-12-29 22:18:22,629:INFO:Ready to scrape
+2022-12-29 22:18:25,404:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/population-estimates/resource/c505f490-c201-44bd-abd1-1bd7a64285ee
+2022-12-29 22:29:17,789:INFO:====== WebDriver manager ======
+2022-12-29 22:29:18,068:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2022-12-29 22:29:18,778:INFO:Driver [C:\Users\PC\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2022-12-29 22:29:19,796:INFO:Webdriver setup done.
+2022-12-29 22:29:23,209:INFO:14 different tables found.
+2022-12-29 22:29:23,209:INFO:Iterating through each table
+2022-12-29 22:29:36,926:INFO:Ready to scrape
+2022-12-29 22:30:24,955:INFO:====== WebDriver manager ======
+2022-12-29 22:30:25,243:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2022-12-29 22:30:25,822:INFO:Driver [C:\Users\PC\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2022-12-29 22:30:26,824:INFO:Webdriver setup done.
+2022-12-29 22:30:30,238:INFO:2 different tables found.
+2022-12-29 22:30:30,238:INFO:Iterating through each table
+2022-12-29 22:30:45,833:INFO:Ready to scrape
+2022-12-29 22:30:48,696:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/population-estimates/resource/c505f490-c201-44bd-abd1-1bd7a64285ee
+2022-12-29 22:34:10,817:INFO:====== WebDriver manager ======
+2022-12-29 22:34:11,149:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2022-12-29 22:34:11,764:INFO:Driver [C:\Users\PC\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2022-12-29 22:34:12,749:INFO:Webdriver setup done.
+2022-12-29 22:34:16,084:INFO:1 different tables found.
+2022-12-29 22:34:16,084:INFO:Iterating through each table
+2022-12-29 22:34:31,044:INFO:Ready to scrape
+2022-12-29 22:34:31,396:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/enhanced-surveillance-of-covid-19-in-scotland/resource/9f483ac0-08d9-40d0-92d9-af6c9a6e81e3
+2022-12-29 22:34:34,841:INFO:Downloaded and saved files from table Seroprevalence by Health Board
+2022-12-29 22:39:57,163:INFO:====== WebDriver manager ======
+2022-12-29 22:39:57,508:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2022-12-29 22:39:58,271:INFO:Driver [C:\Users\PC\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2022-12-29 22:39:59,422:INFO:Webdriver setup done.
+2022-12-29 22:40:02,962:INFO:20 different tables found.
+2022-12-29 22:40:02,962:INFO:Iterating through each table
+2022-12-29 22:40:16,411:INFO:Ready to scrape
+2022-12-29 22:40:16,817:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/infant-feeding/resource/fd82a04b-20f7-4ee3-be91-fcef729c6426
+2022-12-29 22:40:23,932:INFO:Downloaded and saved files from table Infant Feeding by Maternal Age
+2022-12-29 22:40:33,248:INFO:Ready to scrape
+2022-12-29 22:40:33,824:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/annual-hospital-beds-information/resource/5d55964b-8e45-4c49-bfdd-9ea3e1fb962d
+2022-12-29 22:40:36,331:INFO:Downloaded and saved files from table Beds by Health Board of Treatment and Specialty
+2022-12-29 22:40:45,424:INFO:Ready to scrape
+2022-12-29 22:40:47,114:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/annual-cancer-incidence/resource/72c852b8-ee28-4fd8-84a9-5f415f4bc325
+2022-12-29 22:40:50,623:INFO:Downloaded and saved files from table Incidence at Scotland Level
+2022-12-29 22:40:59,816:INFO:Ready to scrape
+2022-12-29 22:41:00,224:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/18-weeks-referral-to-treatment/resource/f2598c24-bf00-4171-b7ef-a469bbacbf6c
+2022-12-29 22:41:00,989:INFO:Downloaded and saved files from table Monthly 18 Weeks RTT by Health Boards
+2022-12-29 22:41:10,183:INFO:Ready to scrape
+2022-12-29 22:41:10,827:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/gp-practice-populations/resource/4c2471ee-8e4b-4a6f-8597-ece6d93e4ba2
+2022-12-29 22:41:12,056:INFO:Downloaded and saved files from table GP Practice Populations October 2022
+2022-12-29 22:41:20,968:INFO:Ready to scrape
+2022-12-29 22:41:21,418:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/inpatient-and-daycase-activity/resource/a54ac059-d995-4c18-8747-add5bae22767
+2022-12-29 22:41:24,170:INFO:Downloaded and saved files from table Activity by Board of Residence
+2022-12-29 22:41:33,091:INFO:Ready to scrape
+2022-12-29 22:41:33,335:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/hospital-standardised-mortality-ratios/resource/dc09221b-57cd-4fbb-b1ec-d1ec8607d4bc
+2022-12-29 22:41:33,977:INFO:Downloaded and saved files from table Mortality rates by admission type
+2022-12-29 22:41:42,750:INFO:Ready to scrape
+2022-12-29 22:41:43,155:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/stage-of-treatment-waiting-times/resource/4c091d26-1492-41e5-9577-832cbc1cd4cf
+2022-12-29 22:41:48,237:INFO:Downloaded and saved files from table Completed Waits
+2022-12-29 22:41:57,385:INFO:Ready to scrape
+2022-12-29 22:41:57,575:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/scottish-morbidity-record-completeness/resource/03cf3cb7-41cc-4984-bff6-bbccd5957679
+2022-12-29 22:41:58,165:INFO:Downloaded and saved files from table Data by Quarters
+2022-12-29 22:42:07,184:INFO:Ready to scrape
+2022-12-29 22:42:07,881:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/quarterly-epidemiological-data-on-healthcare-associated-infections/resource/6d30b0c0-bdcf-4721-9d5c-bd7967c11bac
+2022-12-29 22:42:08,540:INFO:Downloaded and saved files from table Quarterly Epidemiological Data
+2022-12-29 22:42:17,174:INFO:Ready to scrape
+2022-12-29 22:42:17,379:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/drug-related-hospital-statistics-scotland/resource/cdd2e229-9955-4d2a-8c9f-d9bc091a602d
+2022-12-29 22:42:18,003:INFO:Downloaded and saved files from table DRHS By Health Board
+2022-12-29 22:42:26,842:INFO:Ready to scrape
+2022-12-29 22:42:27,607:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/ivf-waiting-times-in-scotland/resource/c0ab7f62-0ad1-4890-8a15-0346143a1b06
+2022-12-29 22:42:28,244:INFO:Downloaded and saved files from table Completed Wait by IVF Centre
+2022-12-29 22:42:37,312:INFO:Ready to scrape
+2022-12-29 22:42:37,571:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/births-in-scottish-hospitals/resource/01ea2bee-6606-4b52-9c17-2a2bd941aa64
+2022-12-29 22:42:38,176:INFO:Downloaded and saved files from table Female Populations
+2022-12-29 22:42:47,498:INFO:Ready to scrape
+2022-12-29 22:42:47,955:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/gp-practice-contact-details-and-list-sizes/resource/1a15cb34-fcf9-4d3f-ad63-1ba3e675fbe2
+2022-12-29 22:42:48,776:INFO:Downloaded and saved files from table GP Practices and List sizes October 2022
+2022-12-29 22:42:57,872:INFO:Ready to scrape
+2022-12-29 22:42:58,366:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/general-practitioner-contact-details/resource/fb48a65c-25fa-4001-9afb-6110d761daf2
+2022-12-29 22:43:00,704:INFO:Downloaded and saved files from table GP Details October 2022
+2022-12-29 22:43:10,579:INFO:Ready to scrape
+2022-12-29 22:43:11,158:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/annual-outpatient-activity/resource/d6647352-74de-40ef-8fa6-dba60450ded8
+2022-12-29 22:43:15,904:INFO:Downloaded and saved files from table Activity By Council Area, Age and Sex
+2022-12-29 22:43:24,764:INFO:Ready to scrape
+2022-12-29 22:43:25,214:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/dental-practices-and-patient-registrations/resource/95059cb2-d22a-4a12-900c-d5608fccfce7
+2022-12-29 22:43:25,852:INFO:Downloaded and saved files from table Dental Practices September 2022
+2022-12-29 22:43:34,683:INFO:Ready to scrape
+2022-12-29 22:43:34,915:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/diagnostic-waiting-times/resource/10dfe6f3-32de-4039-84c2-7e7794a06b31
+2022-12-29 22:52:51,030:INFO:====== WebDriver manager ======
+2022-12-29 22:52:51,365:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2022-12-29 22:52:52,167:INFO:Driver [C:\Users\PC\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2022-12-29 22:52:53,159:INFO:Webdriver setup done.
+2022-12-29 22:52:56,540:INFO:2 different tables found.
+2022-12-29 22:52:56,540:INFO:Iterating through each table
+2022-12-29 22:53:08,034:INFO:Ready to scrape
+2022-12-29 22:54:17,238:INFO:====== WebDriver manager ======
+2022-12-29 22:54:17,526:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2022-12-29 22:54:18,106:INFO:Driver [C:\Users\PC\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2022-12-29 22:54:19,086:INFO:Webdriver setup done.
+2022-12-29 22:54:22,549:INFO:20 different tables found.
+2022-12-29 22:54:22,549:INFO:Iterating through each table
+2022-12-29 22:54:35,903:INFO:Ready to scrape
+2022-12-29 22:54:36,198:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/covid-19-wider-impacts-emergency-department-activity/resource/388fd86c-dc0b-4655-b4b1-f13644bfd8d2
+2022-12-29 22:54:51,392:INFO:Downloaded and saved files from table A&E Activity by Health Board, Age and Sex
+2022-12-29 22:55:00,316:INFO:Ready to scrape
+2022-12-29 22:55:00,656:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/covid-19-wider-impacts-hospital-admissions/resource/f8f3a435-1925-4c5a-b2e8-e58fdacf04bb
+2022-12-29 22:55:13,414:INFO:Downloaded and saved files from table Admissions By Health Board, Age and Sex
+2022-12-29 22:55:22,678:INFO:Ready to scrape
+2022-12-29 22:55:23,142:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/covid-19-wider-impacts-gestation-at-delivery/resource/f00851fb-8798-4612-a891-aab1d7403586
+2022-12-29 22:55:23,718:INFO:Downloaded and saved files from table Gestation Data by Health Board
+2022-12-29 22:55:33,141:INFO:Ready to scrape
+2022-12-29 22:55:33,399:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/cancelled-planned-operations/resource/bcc860a4-49f4-4232-a76b-f559cf6eb885
+2022-12-29 22:55:34,522:INFO:Downloaded and saved files from table Cancellations by Hospital
+2022-12-29 22:55:43,446:INFO:Ready to scrape
+2022-12-29 22:55:43,800:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/outpatient-activity/resource/421fe3d3-25f8-4ec5-be48-2da3a4823c23
+2022-12-29 22:55:45,001:INFO:Downloaded and saved files from table Activity by Board of Residence
+2022-12-29 22:55:53,978:INFO:Ready to scrape
+2022-12-29 22:55:54,214:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/covid-19-wider-impacts-antenatal-bookings/resource/9c18196f-56a5-4847-b7d8-12a8b8d234fd
+2022-12-29 22:55:55,413:INFO:Downloaded and saved files from table Antenatal bookings by Health Board
+2022-12-29 22:56:04,556:INFO:Ready to scrape
+2022-12-29 22:56:04,847:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/delayed-discharges-in-nhsscotland/resource/fd354e4b-6211-48ba-8e4f-8356a5ed4215
+2022-12-29 22:56:08,121:INFO:Downloaded and saved files from table Delayed Discharge Bed Days by Health Board
+2022-12-29 22:56:17,490:INFO:Ready to scrape
+2022-12-29 22:56:18,167:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/monthly-emergency-department-activity-and-waiting-times/resource/2a4adc0a-e8e3-4605-9ade-61e13a85b3b9
+2022-12-29 22:56:22,482:INFO:Downloaded and saved files from table Monthly A&E Activity and Waiting Times
+2022-12-29 22:56:31,789:INFO:Ready to scrape
+2022-12-29 22:56:32,244:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/child-and-adolescent-mental-health-waiting-times/resource/7a2fe10d-1339-41c1-a2f2-a469644fd619
+2022-12-29 22:56:32,883:INFO:Downloaded and saved files from table Adjusted Patients Seen
+2022-12-29 22:56:41,564:INFO:Ready to scrape
+2022-12-29 22:56:41,766:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/covid-19-wider-impacts-cardiovascular-activity/resource/205363a9-af6f-4eb6-8284-dc2e4b4607e4
+2022-12-29 22:56:42,334:INFO:Downloaded and saved files from table A&E Cardiovascular Activity By Age
+2022-12-29 22:56:50,498:INFO:Ready to scrape
+2022-12-29 22:57:26,671:INFO:====== WebDriver manager ======
+2022-12-29 22:57:26,963:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2022-12-29 22:57:27,645:INFO:Driver [C:\Users\PC\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2022-12-29 22:57:28,686:INFO:Webdriver setup done.
+2022-12-29 22:57:32,012:INFO:10 different tables found.
+2022-12-29 22:57:32,012:INFO:Iterating through each table
+2022-12-29 22:57:45,523:INFO:Ready to scrape
+2022-12-29 22:57:45,822:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/covid-19-vaccination-in-scotland/resource/db27a16d-52e1-45e4-bd97-d13831548393
+2022-12-29 22:57:57,198:INFO:Downloaded and saved files from table Daily Trend of All Vaccinations Delivered in ...
+2022-12-29 22:58:05,967:INFO:Ready to scrape
+2022-12-29 22:58:06,269:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/covid-19-wider-impacts-contacts-with-nhs-24/resource/9bac6060-345e-49ac-a87f-bc700be824aa
+2022-12-29 22:58:08,480:INFO:Downloaded and saved files from table NHS24 Contacts By Health Board, Age and Sex
+2022-12-29 22:58:17,556:INFO:Ready to scrape
+2022-12-29 22:58:18,001:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/psychological-therapies-waiting-times/resource/ca3f8e44-9a84-43d6-819c-a880b23bd278
+2022-12-29 22:58:18,597:INFO:Downloaded and saved files from table Adjusted Patients Seen
+2022-12-29 22:58:27,866:INFO:Ready to scrape
+2022-12-29 22:58:28,184:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/covid-19-wider-impacts-deaths/resource/733aad2d-5420-4966-bc34-386a3475623f
+2022-12-29 22:58:29,663:INFO:Downloaded and saved files from table Deaths By Health Board, Age and Sex
+2022-12-29 22:58:38,525:INFO:Ready to scrape
+2022-12-29 22:58:39,999:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/community-pharmacy-contractor-activity/resource/39fe35f5-3af9-42ae-a791-c13a0c2a3e09
+2022-12-29 22:58:43,204:INFO:Downloaded and saved files from table Contractor Activity - 2022
+2022-12-29 22:58:51,937:INFO:Ready to scrape
+2022-12-29 22:58:52,232:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/covid-19-wider-impacts-scottish-ambulance-services/resource/d1d2d098-193f-489c-940a-a828fdcfc357
+2022-12-29 22:58:56,087:INFO:Downloaded and saved files from table SAS Incidents By Health Board, Age and Sex
+2022-12-29 22:59:05,217:INFO:Ready to scrape
+2022-12-29 22:59:05,499:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/cancer-waiting-times/resource/58527343-a930-4058-bf9e-3c6e5cb04010
+2022-12-29 22:59:07,870:INFO:Downloaded and saved files from table Cancer Wait Time - 31 Day Standard
+2022-12-29 22:59:16,815:INFO:Ready to scrape
+2022-12-29 22:59:17,122:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/covid-19-wider-impacts-out-of-hours-consultations/resource/ac710637-e7ae-4911-9638-10d9770b2324
+2022-12-29 22:59:19,159:INFO:Downloaded and saved files from table OOH Cases By Health Board, Age and Sex
+2022-12-29 22:59:28,181:INFO:Ready to scrape
+2022-12-29 22:59:28,751:INFO:Extracted all the required data from table https://www.opendata.nhs.scot/dataset/hospital-beds-information/resource/f272bb7d-5320-4491-84c1-614a2c064007
+2022-12-29 22:59:35,096:INFO:Downloaded and saved files from table Beds by Board of Treatment and Specialty
+2022-12-29 22:59:44,359:INFO:Ready to scrape

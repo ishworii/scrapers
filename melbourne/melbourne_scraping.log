@@ -1,0 +1,818 @@
+2022-12-26 22:17:28,883:INFO:====== WebDriver manager ======
+2022-12-26 22:17:29,292:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2022-12-26 22:17:30,025:INFO:Driver [C:\Users\PC\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2022-12-26 22:17:31,396:INFO:Webdriver setup done.
+2022-12-26 22:19:48,930:INFO:Scrolling done.
+2022-12-26 22:19:50,437:INFO:222 different tables found.
+2022-12-26 22:19:50,437:INFO:Iterating through each table
+2022-12-26 22:19:57,010:INFO:16 less than 200, skipping this table.
+2022-12-26 22:20:02,653:INFO:1425 in the table, scraping this table.
+2022-12-26 22:20:06,296:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/development-activity-monitor/table/
+2022-12-26 22:20:07,629:INFO:Downloaded and saved files from table Development Activity Monitor
+2022-12-26 22:20:13,207:INFO:994 in the table, scraping this table.
+2022-12-26 22:20:15,797:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/on-street-car-parking-meters-with-location/table/
+2022-12-26 22:20:17,056:INFO:Downloaded and saved files from table On-street Car Parking Meters with Location
+2022-12-26 22:20:23,315:INFO:114784 in the table, scraping this table.
+2022-12-26 22:20:25,652:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/tree-canopies-2019/table/
+2022-12-26 22:22:06,835:INFO:Downloaded and saved files from table Tree canopies 2019
+2022-12-26 22:22:14,109:INFO:21982 in the table, scraping this table.
+2022-12-26 22:22:16,765:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/building-outlines-20140/table/
+2022-12-26 22:22:29,034:INFO:Downloaded and saved files from table Building outlines 2014
+2022-12-26 22:22:34,675:INFO:2188 in the table, scraping this table.
+2022-12-26 22:22:38,652:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/parking-restrictions-southeast-cbd-only-2014/table/
+2022-12-26 22:22:40,228:INFO:Downloaded and saved files from table Parking restrictions (southeast CBD only) 2014
+2022-12-26 22:22:46,248:INFO:33585 in the table, scraping this table.
+2022-12-26 22:22:49,098:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/footpath-steepness/table/
+2022-12-26 22:23:06,626:INFO:Downloaded and saved files from table Footpath steepness
+2022-12-26 22:23:12,418:INFO:11788 in the table, scraping this table.
+2022-12-26 22:23:15,479:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/floor-space-by-block-by-clue-industry/table/
+2022-12-26 22:23:19,602:INFO:Downloaded and saved files from table Floor space per CLUE industry for blocks
+2022-12-26 22:23:27,276:INFO:11788 in the table, scraping this table.
+2022-12-26 22:23:30,304:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/employment-by-block-by-anzsic/table/
+2022-12-26 22:23:34,287:INFO:Downloaded and saved files from table Jobs per ANZSIC for blocks
+2022-12-26 22:23:40,085:INFO:11788 in the table, scraping this table.
+2022-12-26 22:23:43,081:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/business-establishments-per-block-by-anzsic/table/
+2022-12-26 22:23:47,317:INFO:Downloaded and saved files from table Business establishments per ANZSIC for blocks
+2022-12-26 22:23:55,322:INFO:4402 in the table, scraping this table.
+2022-12-26 22:23:57,999:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/bars-and-pubs-with-patron-capacity/table/
+2022-12-26 22:24:00,004:INFO:Downloaded and saved files from table Bar, tavern, pub patron capacity
+2022-12-26 22:24:05,764:INFO:11788 in the table, scraping this table.
+2022-12-26 22:24:08,737:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/floor-space-by-block-by-anzsic/table/
+2022-12-26 22:24:12,833:INFO:Downloaded and saved files from table Floor space per ANZSIC for blocks
+2022-12-26 22:24:18,658:INFO:56987 in the table, scraping this table.
+2022-12-26 22:24:21,513:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/cafes-and-restaurants-with-seating-capacity/table/
+2022-12-26 22:24:39,562:INFO:Downloaded and saved files from table Café, restaurant, bistro seats
+2022-12-26 22:24:45,975:INFO:606 in the table, scraping this table.
+2022-12-26 22:24:48,423:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/blocks-for-census-of-land-use-and-employment-clue/table/
+2022-12-26 22:24:49,651:INFO:Downloaded and saved files from table Blocks for Census of Land Use and Employment (CLUE)
+2022-12-26 22:24:56,926:INFO:263285 in the table, scraping this table.
+2022-12-26 22:24:59,906:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/buildings-with-name-age-size-accessibility-and-bicycle-facilities/table/
+2022-12-26 22:26:21,957:INFO:Downloaded and saved files from table Building information
+2022-12-26 22:26:30,954:INFO:11788 in the table, scraping this table.
+2022-12-26 22:26:34,539:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/floor-space-by-use-by-block/table/
+2022-12-26 22:26:38,877:INFO:Downloaded and saved files from table Floor space per space use for blocks
+2022-12-26 22:26:46,372:INFO:11788 in the table, scraping this table.
+2022-12-26 22:26:49,445:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/employment-by-block-by-clue-industry/table/
+2022-12-26 22:26:53,485:INFO:Downloaded and saved files from table Jobs per CLUE industry for blocks
+2022-12-26 22:27:00,962:INFO:11788 in the table, scraping this table.
+2022-12-26 22:27:04,645:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/employment-by-block-by-space-use/table/
+2022-12-26 22:27:09,093:INFO:Downloaded and saved files from table Jobs per space use for blocks
+2022-12-26 22:27:14,693:INFO:354556 in the table, scraping this table.
+2022-12-26 22:27:17,369:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/business-establishments-with-address-and-industry-classification/table/
+2022-12-26 22:29:02,663:INFO:Downloaded and saved files from table Business establishments location and industry classification
+2022-12-26 22:29:09,709:INFO:612 in the table, scraping this table.
+2022-12-26 22:29:12,341:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/public-open-space-contribution-register/table/
+2022-12-26 22:29:13,875:INFO:Downloaded and saved files from table Public Open Space Contribution Register
+2022-12-26 22:29:19,483:INFO:1117 in the table, scraping this table.
+2022-12-26 22:29:21,873:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/sign-plates-located-in-each-parking-zone/table/
+2022-12-26 22:29:22,763:INFO:Downloaded and saved files from table Sign plates located in each Parking zone
+2022-12-26 22:29:29,162:INFO:741 in the table, scraping this table.
+2022-12-26 22:29:31,570:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/parking-zones-linked-to-street-segments/table/
+2022-12-26 22:29:32,723:INFO:Downloaded and saved files from table Parking zones linked to street segments
+2022-12-26 22:29:38,415:INFO:352 in the table, scraping this table.
+2022-12-26 22:29:43,329:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/annual-bike-counts-super-tuesday/table/
+2022-12-26 22:29:44,303:INFO:Downloaded and saved files from table Annual Bike Counts (Super Tuesday)
+2022-12-26 22:29:49,919:INFO:99194 in the table, scraping this table.
+2022-12-26 22:29:52,490:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/tree-canopies-2013/table/
+2022-12-26 22:42:35,079:INFO:====== WebDriver manager ======
+2022-12-26 22:42:35,384:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2022-12-26 22:42:36,143:INFO:Driver [C:\Users\PC\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2022-12-26 22:42:37,286:INFO:Webdriver setup done.
+2022-12-26 22:44:57,472:INFO:Scrolling done.
+2022-12-26 22:44:59,153:INFO:222 different tables found.
+2022-12-26 22:44:59,153:INFO:Iterating through each table
+2022-12-26 22:45:05,689:INFO:16 less than 200, skipping this table.
+2022-12-26 22:45:11,298:INFO:1425 in the table, scraping this table.
+2022-12-26 22:45:15,022:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/development-activity-monitor/table/
+2022-12-26 22:45:15,022:INFO:Downloaded and saved files from table Development Activity Monitor
+2022-12-26 22:45:20,983:INFO:994 in the table, scraping this table.
+2022-12-26 22:45:23,586:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/on-street-car-parking-meters-with-location/table/
+2022-12-26 22:45:23,586:INFO:Downloaded and saved files from table On-street Car Parking Meters with Location
+2022-12-26 22:45:29,204:INFO:114784 in the table, scraping this table.
+2022-12-26 22:45:31,541:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/tree-canopies-2019/table/
+2022-12-26 22:45:31,541:INFO:Downloaded and saved files from table Tree canopies 2019
+2022-12-26 22:45:37,139:INFO:21982 in the table, scraping this table.
+2022-12-26 22:45:39,755:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/building-outlines-20140/table/
+2022-12-26 22:45:39,755:INFO:Downloaded and saved files from table Building outlines 2014
+2022-12-26 22:45:45,358:INFO:2188 in the table, scraping this table.
+2022-12-26 22:45:49,378:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/parking-restrictions-southeast-cbd-only-2014/table/
+2022-12-26 22:45:49,379:INFO:Downloaded and saved files from table Parking restrictions (southeast CBD only) 2014
+2022-12-26 22:45:54,997:INFO:33585 in the table, scraping this table.
+2022-12-26 22:45:57,853:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/footpath-steepness/table/
+2022-12-26 22:45:57,853:INFO:Downloaded and saved files from table Footpath steepness
+2022-12-26 22:46:03,648:INFO:11788 in the table, scraping this table.
+2022-12-26 22:46:06,886:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/floor-space-by-block-by-clue-industry/table/
+2022-12-26 22:46:06,886:INFO:Downloaded and saved files from table Floor space per CLUE industry for blocks
+2022-12-26 22:46:13,506:INFO:11788 in the table, scraping this table.
+2022-12-26 22:46:16,756:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/employment-by-block-by-anzsic/table/
+2022-12-26 22:46:16,756:INFO:Downloaded and saved files from table Jobs per ANZSIC for blocks
+2022-12-26 22:46:22,363:INFO:11788 in the table, scraping this table.
+2022-12-26 22:46:25,402:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/business-establishments-per-block-by-anzsic/table/
+2022-12-26 22:46:25,402:INFO:Downloaded and saved files from table Business establishments per ANZSIC for blocks
+2022-12-26 22:46:31,084:INFO:4402 in the table, scraping this table.
+2022-12-26 22:46:33,754:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/bars-and-pubs-with-patron-capacity/table/
+2022-12-26 22:46:33,754:INFO:Downloaded and saved files from table Bar, tavern, pub patron capacity
+2022-12-26 22:46:39,510:INFO:11788 in the table, scraping this table.
+2022-12-26 22:46:42,474:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/floor-space-by-block-by-anzsic/table/
+2022-12-26 22:46:42,474:INFO:Downloaded and saved files from table Floor space per ANZSIC for blocks
+2022-12-26 22:46:48,117:INFO:56987 in the table, scraping this table.
+2022-12-26 22:46:50,960:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/cafes-and-restaurants-with-seating-capacity/table/
+2022-12-26 22:46:50,960:INFO:Downloaded and saved files from table Café, restaurant, bistro seats
+2022-12-26 22:46:56,507:INFO:606 in the table, scraping this table.
+2022-12-26 22:46:58,891:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/blocks-for-census-of-land-use-and-employment-clue/table/
+2022-12-26 22:46:58,891:INFO:Downloaded and saved files from table Blocks for Census of Land Use and Employment (CLUE)
+2022-12-26 22:47:04,441:INFO:263285 in the table, scraping this table.
+2022-12-26 22:47:07,387:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/buildings-with-name-age-size-accessibility-and-bicycle-facilities/table/
+2022-12-26 22:47:07,387:INFO:Downloaded and saved files from table Building information
+2022-12-26 22:47:13,974:INFO:11788 in the table, scraping this table.
+2022-12-26 22:47:17,652:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/floor-space-by-use-by-block/table/
+2022-12-26 22:47:17,652:INFO:Downloaded and saved files from table Floor space per space use for blocks
+2022-12-26 22:47:23,422:INFO:11788 in the table, scraping this table.
+2022-12-26 22:47:26,520:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/employment-by-block-by-clue-industry/table/
+2022-12-26 22:47:26,520:INFO:Downloaded and saved files from table Jobs per CLUE industry for blocks
+2022-12-26 22:47:32,287:INFO:11788 in the table, scraping this table.
+2022-12-26 22:47:36,066:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/employment-by-block-by-space-use/table/
+2022-12-26 22:47:36,066:INFO:Downloaded and saved files from table Jobs per space use for blocks
+2022-12-26 22:47:42,043:INFO:354556 in the table, scraping this table.
+2022-12-26 22:47:44,807:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/business-establishments-with-address-and-industry-classification/table/
+2022-12-26 22:47:44,807:INFO:Downloaded and saved files from table Business establishments location and industry classification
+2022-12-26 22:47:50,756:INFO:612 in the table, scraping this table.
+2022-12-26 22:47:53,434:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/public-open-space-contribution-register/table/
+2022-12-26 22:47:53,434:INFO:Downloaded and saved files from table Public Open Space Contribution Register
+2022-12-26 22:47:59,005:INFO:1117 in the table, scraping this table.
+2022-12-26 22:48:01,461:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/sign-plates-located-in-each-parking-zone/table/
+2022-12-26 22:48:01,461:INFO:Downloaded and saved files from table Sign plates located in each Parking zone
+2022-12-26 22:48:07,076:INFO:741 in the table, scraping this table.
+2022-12-26 22:48:09,521:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/parking-zones-linked-to-street-segments/table/
+2022-12-26 22:48:09,521:INFO:Downloaded and saved files from table Parking zones linked to street segments
+2022-12-26 22:48:15,996:INFO:352 in the table, scraping this table.
+2022-12-26 22:48:20,998:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/annual-bike-counts-super-tuesday/table/
+2022-12-26 22:48:20,999:INFO:Downloaded and saved files from table Annual Bike Counts (Super Tuesday)
+2022-12-26 22:48:26,621:INFO:99194 in the table, scraping this table.
+2022-12-26 22:48:29,198:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/tree-canopies-2013/table/
+2022-12-26 22:48:29,198:INFO:Downloaded and saved files from table Tree canopies 2013
+2022-12-26 22:48:34,769:INFO:74 less than 200, skipping this table.
+2022-12-26 22:48:40,340:INFO:363 in the table, scraping this table.
+2022-12-26 22:48:43,291:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/waste-processed-by-dehydrator-at-degraves-st-recycling-facility-2016/table/
+2022-12-26 22:48:44,514:INFO:Downloaded and saved files from table Waste processed by dehydrator at Degraves St Recycling Facility 2016
+2022-12-26 22:48:50,082:INFO:3389 in the table, scraping this table.
+2022-12-26 22:48:52,492:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/high-rise-residents-profile-2016/table/
+2022-12-26 22:48:54,322:INFO:Downloaded and saved files from table High Rise Residents Profile 2016
+2022-12-26 22:48:59,917:INFO:498 in the table, scraping this table.
+2022-12-26 22:49:02,662:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/bird-survey-results-for-areas-in-the-city-of-melbourne-february-and-march-2018/table/
+2022-12-26 22:49:03,434:INFO:Downloaded and saved files from table Bird Survey Results for Areas in the City of Melbourne, February and March 2018
+2022-12-26 22:49:09,064:INFO:59 less than 200, skipping this table.
+2022-12-26 22:49:14,640:INFO:219 in the table, scraping this table.
+2022-12-26 22:49:17,054:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/metro-train-stations-with-accessibility-information/table/
+2022-12-26 22:49:17,743:INFO:Downloaded and saved files from table Metro Train Stations with Accessibility Information
+2022-12-26 22:49:24,121:INFO:54680 in the table, scraping this table.
+2022-12-26 22:49:26,517:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/tree-canopies-2018-entire-municipal-area-urban-forest/table/
+2022-12-26 22:50:33,599:INFO:Downloaded and saved files from table Tree canopies 2018 entire municipal area (Urban Forest)
+2022-12-26 22:50:41,584:INFO:46479 in the table, scraping this table.
+2022-12-26 22:50:44,017:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/customer-service-requests-with-resolution-time/table/
+2022-12-26 22:50:57,573:INFO:Downloaded and saved files from table Customer service requests, with resolution time
+2022-12-26 22:51:03,164:INFO:42221 in the table, scraping this table.
+2022-12-26 22:51:05,582:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/customer-service-requests-with-digital-channel-information/table/
+2022-12-26 22:51:26,760:INFO:Downloaded and saved files from table Customer Service Requests (with digital channel information)
+2022-12-26 22:51:33,394:INFO:1295 in the table, scraping this table.
+2022-12-26 22:51:35,975:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/insect-records-in-the-city-of-melbourne-from-little-things-that-run-the-city/table/
+2022-12-26 22:51:37,135:INFO:Downloaded and saved files from table Insect Records in the City of Melbourne (from Little Things that Run the City)
+2022-12-26 22:51:43,602:INFO:37872 in the table, scraping this table.
+2022-12-26 22:51:46,229:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/2018-building-footprints/table/
+2022-12-26 22:52:04,863:INFO:Downloaded and saved files from table 2018 Building Footprints
+2022-12-26 22:52:10,458:INFO:9114 in the table, scraping this table.
+2022-12-26 22:52:12,801:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/city-of-melbourne-jobs-forecasts-by-small-area-2020-2040/table/
+2022-12-26 22:52:15,859:INFO:Downloaded and saved files from table City of Melbourne Jobs Forecasts by Small Area 2021-2041
+2022-12-26 22:52:21,546:INFO:60712 in the table, scraping this table.
+2022-12-26 22:52:24,137:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/tree-canopies-2015-urban-forest/table/
+2022-12-26 22:58:41,929:INFO:====== WebDriver manager ======
+2022-12-26 22:58:42,212:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2022-12-26 22:58:42,864:INFO:Driver [C:\Users\PC\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2022-12-26 22:58:43,923:INFO:Webdriver setup done.
+2022-12-26 23:02:00,048:INFO:====== WebDriver manager ======
+2022-12-26 23:02:00,350:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2022-12-26 23:02:00,843:INFO:Driver [C:\Users\PC\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2022-12-26 23:02:01,840:INFO:Webdriver setup done.
+2022-12-26 23:02:33,908:INFO:Scrolling done.
+2022-12-26 23:02:35,357:INFO:210 different tables found.
+2022-12-26 23:11:53,255:INFO:====== WebDriver manager ======
+2022-12-26 23:11:53,551:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2022-12-26 23:11:54,219:INFO:Driver [C:\Users\PC\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2022-12-26 23:11:55,222:INFO:Webdriver setup done.
+2022-12-26 23:13:06,591:INFO:Scrolling done.
+2022-12-26 23:13:08,170:INFO:222 different tables found.
+2022-12-26 23:16:31,776:INFO:====== WebDriver manager ======
+2022-12-26 23:16:32,065:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2022-12-26 23:16:32,582:INFO:Driver [C:\Users\PC\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2022-12-26 23:16:33,569:INFO:Webdriver setup done.
+2022-12-26 23:16:38,599:INFO:222 different tables found.
+2022-12-26 23:16:38,599:INFO:Iterating through each table
+2022-12-26 23:16:45,635:INFO:16 less than 200, skipping this table.
+2022-12-26 23:16:51,265:INFO:1425 rows in the table, scraping this table.
+2022-12-26 23:16:54,881:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/development-activity-monitor/table/
+2022-12-26 23:16:54,881:INFO:Downloaded and saved files from table Development Activity Monitor
+2022-12-26 23:17:00,883:INFO:994 rows in the table, scraping this table.
+2022-12-26 23:17:03,472:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/on-street-car-parking-meters-with-location/table/
+2022-12-26 23:17:03,472:INFO:Downloaded and saved files from table On-street Car Parking Meters with Location
+2022-12-26 23:17:09,066:INFO:114784 rows in the table, scraping this table.
+2022-12-26 23:17:11,392:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/tree-canopies-2019/table/
+2022-12-26 23:17:11,392:INFO:Downloaded and saved files from table Tree canopies 2019
+2022-12-26 23:17:16,974:INFO:21982 rows in the table, scraping this table.
+2022-12-26 23:17:19,601:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/building-outlines-20140/table/
+2022-12-26 23:17:19,603:INFO:Downloaded and saved files from table Building outlines 2014
+2022-12-26 23:17:25,234:INFO:2188 rows in the table, scraping this table.
+2022-12-26 23:17:29,029:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/parking-restrictions-southeast-cbd-only-2014/table/
+2022-12-26 23:17:29,029:INFO:Downloaded and saved files from table Parking restrictions (southeast CBD only) 2014
+2022-12-26 23:17:34,710:INFO:33585 rows in the table, scraping this table.
+2022-12-26 23:17:37,447:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/footpath-steepness/table/
+2022-12-26 23:17:37,447:INFO:Downloaded and saved files from table Footpath steepness
+2022-12-26 23:17:43,290:INFO:11788 rows in the table, scraping this table.
+2022-12-26 23:17:46,333:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/floor-space-by-block-by-clue-industry/table/
+2022-12-26 23:17:46,333:INFO:Downloaded and saved files from table Floor space per CLUE industry for blocks
+2022-12-26 23:17:52,937:INFO:11788 rows in the table, scraping this table.
+2022-12-26 23:17:55,924:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/employment-by-block-by-anzsic/table/
+2022-12-26 23:17:55,924:INFO:Downloaded and saved files from table Jobs per ANZSIC for blocks
+2022-12-26 23:18:01,668:INFO:11788 rows in the table, scraping this table.
+2022-12-26 23:18:04,779:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/business-establishments-per-block-by-anzsic/table/
+2022-12-26 23:18:04,779:INFO:Downloaded and saved files from table Business establishments per ANZSIC for blocks
+2022-12-26 23:18:10,371:INFO:4402 rows in the table, scraping this table.
+2022-12-26 23:18:12,996:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/bars-and-pubs-with-patron-capacity/table/
+2022-12-26 23:18:12,996:INFO:Downloaded and saved files from table Bar, tavern, pub patron capacity
+2022-12-26 23:18:18,771:INFO:11788 rows in the table, scraping this table.
+2022-12-26 23:18:21,740:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/floor-space-by-block-by-anzsic/table/
+2022-12-26 23:18:21,741:INFO:Downloaded and saved files from table Floor space per ANZSIC for blocks
+2022-12-26 23:18:27,332:INFO:56987 rows in the table, scraping this table.
+2022-12-26 23:18:30,102:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/cafes-and-restaurants-with-seating-capacity/table/
+2022-12-26 23:18:30,102:INFO:Downloaded and saved files from table Café, restaurant, bistro seats
+2022-12-26 23:18:35,676:INFO:606 rows in the table, scraping this table.
+2022-12-26 23:18:38,034:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/blocks-for-census-of-land-use-and-employment-clue/table/
+2022-12-26 23:18:38,034:INFO:Downloaded and saved files from table Blocks for Census of Land Use and Employment (CLUE)
+2022-12-26 23:18:43,611:INFO:263285 rows in the table, scraping this table.
+2022-12-26 23:18:46,500:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/buildings-with-name-age-size-accessibility-and-bicycle-facilities/table/
+2022-12-26 23:18:46,500:INFO:Downloaded and saved files from table Building information
+2022-12-26 23:18:53,220:INFO:11788 rows in the table, scraping this table.
+2022-12-26 23:18:56,795:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/floor-space-by-use-by-block/table/
+2022-12-26 23:18:56,795:INFO:Downloaded and saved files from table Floor space per space use for blocks
+2022-12-26 23:19:02,583:INFO:11788 rows in the table, scraping this table.
+2022-12-26 23:19:05,637:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/employment-by-block-by-clue-industry/table/
+2022-12-26 23:19:05,637:INFO:Downloaded and saved files from table Jobs per CLUE industry for blocks
+2022-12-26 23:19:11,422:INFO:11788 rows in the table, scraping this table.
+2022-12-26 23:19:15,071:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/employment-by-block-by-space-use/table/
+2022-12-26 23:19:15,071:INFO:Downloaded and saved files from table Jobs per space use for blocks
+2022-12-26 23:19:20,691:INFO:354556 rows in the table, scraping this table.
+2022-12-26 23:19:23,352:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/business-establishments-with-address-and-industry-classification/table/
+2022-12-26 23:19:23,353:INFO:Downloaded and saved files from table Business establishments location and industry classification
+2022-12-26 23:19:28,937:INFO:612 rows in the table, scraping this table.
+2022-12-26 23:19:31,548:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/public-open-space-contribution-register/table/
+2022-12-26 23:19:31,549:INFO:Downloaded and saved files from table Public Open Space Contribution Register
+2022-12-26 23:19:37,151:INFO:1117 rows in the table, scraping this table.
+2022-12-26 23:19:39,558:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/sign-plates-located-in-each-parking-zone/table/
+2022-12-26 23:19:39,559:INFO:Downloaded and saved files from table Sign plates located in each Parking zone
+2022-12-26 23:19:45,181:INFO:741 rows in the table, scraping this table.
+2022-12-26 23:19:47,538:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/parking-zones-linked-to-street-segments/table/
+2022-12-26 23:19:47,538:INFO:Downloaded and saved files from table Parking zones linked to street segments
+2022-12-26 23:19:54,014:INFO:352 rows in the table, scraping this table.
+2022-12-26 23:19:58,986:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/annual-bike-counts-super-tuesday/table/
+2022-12-26 23:19:58,986:INFO:Downloaded and saved files from table Annual Bike Counts (Super Tuesday)
+2022-12-26 23:20:04,578:INFO:99194 rows in the table, scraping this table.
+2022-12-26 23:20:07,185:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/tree-canopies-2013/table/
+2022-12-26 23:20:07,187:INFO:Downloaded and saved files from table Tree canopies 2013
+2022-12-26 23:20:12,766:INFO:74 less than 200, skipping this table.
+2022-12-26 23:20:18,338:INFO:363 rows in the table, scraping this table.
+2022-12-26 23:20:21,412:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/waste-processed-by-dehydrator-at-degraves-st-recycling-facility-2016/table/
+2022-12-26 23:20:21,412:INFO:Downloaded and saved files from table Waste processed by dehydrator at Degraves St Recycling Facility 2016
+2022-12-26 23:20:26,983:INFO:3389 rows in the table, scraping this table.
+2022-12-26 23:20:29,414:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/high-rise-residents-profile-2016/table/
+2022-12-26 23:20:29,415:INFO:Downloaded and saved files from table High Rise Residents Profile 2016
+2022-12-26 23:20:35,084:INFO:498 rows in the table, scraping this table.
+2022-12-26 23:20:37,812:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/bird-survey-results-for-areas-in-the-city-of-melbourne-february-and-march-2018/table/
+2022-12-26 23:20:37,812:INFO:Downloaded and saved files from table Bird Survey Results for Areas in the City of Melbourne, February and March 2018
+2022-12-26 23:20:43,489:INFO:59 less than 200, skipping this table.
+2022-12-26 23:20:49,087:INFO:219 rows in the table, scraping this table.
+2022-12-26 23:20:51,534:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/metro-train-stations-with-accessibility-information/table/
+2022-12-26 23:20:51,534:INFO:Downloaded and saved files from table Metro Train Stations with Accessibility Information
+2022-12-26 23:20:57,896:INFO:54680 rows in the table, scraping this table.
+2022-12-26 23:21:00,316:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/tree-canopies-2018-entire-municipal-area-urban-forest/table/
+2022-12-26 23:21:00,317:INFO:Downloaded and saved files from table Tree canopies 2018 entire municipal area (Urban Forest)
+2022-12-26 23:21:06,151:INFO:46479 rows in the table, scraping this table.
+2022-12-26 23:21:08,579:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/customer-service-requests-with-resolution-time/table/
+2022-12-26 23:21:08,579:INFO:Downloaded and saved files from table Customer service requests, with resolution time
+2022-12-26 23:21:14,258:INFO:42221 rows in the table, scraping this table.
+2022-12-26 23:21:16,690:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/customer-service-requests-with-digital-channel-information/table/
+2022-12-26 23:21:16,691:INFO:Downloaded and saved files from table Customer Service Requests (with digital channel information)
+2022-12-26 23:21:22,306:INFO:1295 rows in the table, scraping this table.
+2022-12-26 23:21:24,911:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/insect-records-in-the-city-of-melbourne-from-little-things-that-run-the-city/table/
+2022-12-26 23:21:24,911:INFO:Downloaded and saved files from table Insect Records in the City of Melbourne (from Little Things that Run the City)
+2022-12-26 23:21:30,495:INFO:37872 rows in the table, scraping this table.
+2022-12-26 23:21:33,137:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/2018-building-footprints/table/
+2022-12-26 23:21:33,138:INFO:Downloaded and saved files from table 2018 Building Footprints
+2022-12-26 23:21:38,695:INFO:9114 rows in the table, scraping this table.
+2022-12-26 23:21:41,139:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/city-of-melbourne-jobs-forecasts-by-small-area-2020-2040/table/
+2022-12-26 23:21:41,139:INFO:Downloaded and saved files from table City of Melbourne Jobs Forecasts by Small Area 2021-2041
+2022-12-26 23:21:47,171:INFO:60712 rows in the table, scraping this table.
+2022-12-26 23:21:49,662:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/tree-canopies-2015-urban-forest/table/
+2022-12-26 23:21:49,662:INFO:Downloaded and saved files from table Tree canopies 2015 (Urban Forest)
+2022-12-26 23:21:55,283:INFO:58790 rows in the table, scraping this table.
+2022-12-26 23:21:57,763:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/tree-canopies-2008-urban-forest/table/
+2022-12-26 23:21:57,763:INFO:Downloaded and saved files from table Tree canopies 2008 (Urban Forest)
+2022-12-26 23:22:04,244:INFO:124 less than 200, skipping this table.
+2022-12-26 23:22:09,821:INFO:27 less than 200, skipping this table.
+2022-12-26 23:22:15,453:INFO:309 rows in the table, scraping this table.
+2022-12-26 23:22:18,242:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/bus-stops/table/
+2022-12-26 23:22:19,148:INFO:Downloaded and saved files from table Bus stops
+2022-12-26 23:22:24,768:INFO:246 rows in the table, scraping this table.
+2022-12-26 23:22:27,774:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/laneways-with-greening-potential/table/
+2022-12-26 23:22:28,856:INFO:Downloaded and saved files from table Laneways with greening potential
+2022-12-26 23:22:34,401:INFO:59885 rows in the table, scraping this table.
+2022-12-26 23:22:36,708:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/tree-canopies-2016-urban-forest/table/
+2022-12-26 23:22:36,708:INFO:Downloaded and saved files from table Tree Canopies 2016 (Urban Forest)
+2022-12-26 23:22:42,364:INFO:35 less than 200, skipping this table.
+2022-12-26 23:22:48,029:INFO:20861 rows in the table, scraping this table.
+2022-12-26 23:22:50,521:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/building-outlines-2015/table/
+2022-12-26 23:25:20,144:INFO:====== WebDriver manager ======
+2022-12-26 23:25:20,460:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2022-12-26 23:25:21,176:INFO:Driver [C:\Users\PC\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2022-12-26 23:25:22,194:INFO:Webdriver setup done.
+2022-12-26 23:25:26,723:INFO:178 different tables found.
+2022-12-26 23:25:26,723:INFO:Iterating through each table
+2022-12-26 23:25:33,174:INFO:20861 rows in the table, scraping this table.
+2022-12-26 23:25:35,691:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/building-outlines-2015/table/
+2022-12-26 23:25:35,691:INFO:Downloaded and saved files from table Building outlines 2015
+2022-12-26 23:25:41,258:INFO:17052 rows in the table, scraping this table.
+2022-12-26 23:25:43,631:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/city-of-melbourne-population-forecasts-by-small-area-2020-2040/table/
+2022-12-26 23:25:50,091:INFO:Downloaded and saved files from table City of Melbourne Population Forecasts by Small Area 2021-2041
+2022-12-26 23:25:55,665:INFO:106037 rows in the table, scraping this table.
+2022-12-26 23:25:58,558:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/street-lights-with-emitted-lux-level-council-owned-lights-only/table/
+2022-12-26 23:26:43,098:INFO:Downloaded and saved files from table Street lights with emitted lux level (council-owned lights only)
+2022-12-26 23:26:49,562:INFO:56570 rows in the table, scraping this table.
+2022-12-26 23:26:52,464:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/sensor-readings-with-temperature-light-humidity-every-5-minutes-at-8-locations-t/table/
+2022-12-26 23:29:33,121:INFO:====== WebDriver manager ======
+2022-12-26 23:29:33,406:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2022-12-26 23:29:33,965:INFO:Driver [C:\Users\PC\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2022-12-26 23:29:34,933:INFO:Webdriver setup done.
+2022-12-26 23:29:39,969:INFO:175 different tables found.
+2022-12-26 23:29:39,969:INFO:Iterating through each table
+2022-12-26 23:29:46,453:INFO:56570 rows in the table, scraping this table.
+2022-12-26 23:29:49,388:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/sensor-readings-with-temperature-light-humidity-every-5-minutes-at-8-locations-t/table/
+2022-12-26 23:30:47,081:INFO:====== WebDriver manager ======
+2022-12-26 23:30:47,382:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2022-12-26 23:30:48,122:INFO:Driver [C:\Users\PC\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2022-12-26 23:30:49,105:INFO:Webdriver setup done.
+2022-12-26 23:30:53,734:INFO:175 different tables found.
+2022-12-26 23:30:53,734:INFO:Iterating through each table
+2022-12-26 23:31:00,217:INFO:56570 rows in the table, scraping this table.
+2022-12-26 23:31:03,102:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/sensor-readings-with-temperature-light-humidity-every-5-minutes-at-8-locations-t/table/
+2022-12-26 23:31:03,102:INFO:Downloaded and saved files from table Sensor readings, with temperature, light, humidity every 5 minutes at 8 locations (trial, 2014 to 2015)
+2022-12-26 23:31:08,657:INFO:72 less than 200, skipping this table.
+2022-12-26 23:31:15,426:INFO:670 rows in the table, scraping this table.
+2022-12-26 23:31:18,218:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/wildlife-sightings-bioblitz-2014/table/?disjunctive.taxa&disjunctive.kingdom&disjunctive.phylum&disjunctive.class&disjunctive.order&disjunctive.family&disjunctive.genus&disjunctive.species&disjunctive.common_name
+2022-12-26 23:31:19,240:INFO:Downloaded and saved files from table Wildlife Sightings (BioBlitz 2014)
+2022-12-26 23:31:24,785:INFO:1495 rows in the table, scraping this table.
+2022-12-26 23:31:27,175:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/sign-plates-located-in-each-pay-stay-zone/table/
+2022-12-26 23:31:28,157:INFO:Downloaded and saved files from table Sign plates located in each Pay Stay zone
+2022-12-26 23:31:33,711:INFO:14 less than 200, skipping this table.
+2022-12-26 23:31:39,294:INFO:1 less than 200, skipping this table.
+2022-12-26 23:31:44,851:INFO:9 less than 200, skipping this table.
+2022-12-26 23:31:50,364:INFO:13 less than 200, skipping this table.
+2022-12-26 23:31:55,977:INFO:1356 rows in the table, scraping this table.
+2022-12-26 23:31:58,697:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/bioblitz-2016/table/
+2022-12-26 23:32:00,097:INFO:Downloaded and saved files from table BioBlitz 2016
+2022-12-26 23:32:07,455:INFO:1 less than 200, skipping this table.
+2022-12-26 23:32:13,034:INFO:7701 rows in the table, scraping this table.
+2022-12-26 23:32:15,487:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/water-flow-routes-over-land-urban-forest/table/
+2022-12-26 23:32:19,450:INFO:Downloaded and saved files from table Water flow routes over land (Urban Forest)
+2022-12-26 23:32:25,011:INFO:2646 rows in the table, scraping this table.
+2022-12-26 23:32:27,376:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/city-of-melbourne-dwellings-and-household-forecasts-by-small-area-2020-2040/table/
+2022-12-26 23:32:28,782:INFO:Downloaded and saved files from table City of Melbourne Dwellings and Household Forecasts by Small Area 2021-2041
+2022-12-26 23:32:34,343:INFO:17 less than 200, skipping this table.
+2022-12-26 23:32:39,906:INFO:347 rows in the table, scraping this table.
+2022-12-26 23:32:42,258:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/house-prices-by-small-area-sale-year/table/
+2022-12-26 23:32:43,132:INFO:Downloaded and saved files from table House Prices by Small Area - Sale Year
+2022-12-26 23:32:48,712:INFO:645 rows in the table, scraping this table.
+2022-12-26 23:32:51,051:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/tram-tracks/table/
+2022-12-26 23:32:52,424:INFO:Downloaded and saved files from table Tram tracks
+2022-12-26 23:32:57,991:INFO:9474 rows in the table, scraping this table.
+2022-12-26 23:33:00,639:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/environmental-resources-consumed-including-air-travel-chemicals-electricity-fuel/table/
+2022-12-26 23:36:40,033:INFO:====== WebDriver manager ======
+2022-12-26 23:36:40,300:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2022-12-26 23:36:41,058:INFO:Driver [C:\Users\PC\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2022-12-26 23:36:42,056:INFO:Webdriver setup done.
+2022-12-26 23:36:49,749:INFO:160 different tables found.
+2022-12-26 23:36:49,749:INFO:Iterating through each table
+2022-12-26 23:36:56,276:INFO:9474 rows in the table, scraping this table.
+2022-12-26 23:36:58,988:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/environmental-resources-consumed-including-air-travel-chemicals-electricity-fuel/table/
+2022-12-26 23:38:56,092:INFO:====== WebDriver manager ======
+2022-12-26 23:38:56,397:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2022-12-26 23:38:56,992:INFO:Driver [C:\Users\PC\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2022-12-26 23:38:57,984:INFO:Webdriver setup done.
+2022-12-26 23:39:05,539:INFO:160 different tables found.
+2022-12-26 23:39:05,539:INFO:Iterating through each table
+2022-12-26 23:39:12,099:INFO:9474 rows in the table, scraping this table.
+2022-12-26 23:39:14,802:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/environmental-resources-consumed-including-air-travel-chemicals-electricity-fuel/table/
+2022-12-26 23:40:40,893:INFO:====== WebDriver manager ======
+2022-12-26 23:40:41,230:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2022-12-26 23:40:41,880:INFO:Driver [C:\Users\PC\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2022-12-26 23:40:42,861:INFO:Webdriver setup done.
+2022-12-26 23:40:50,483:INFO:160 different tables found.
+2022-12-26 23:40:50,483:INFO:Iterating through each table
+2022-12-26 23:40:57,033:INFO:9474 rows in the table, scraping this table.
+2022-12-26 23:40:59,725:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/environmental-resources-consumed-including-air-travel-chemicals-electricity-fuel/table/
+2022-12-26 23:41:03,663:INFO:Downloaded and saved files from table Environmental resources consumed, including air travel, chemicals, electricity, fuel, gas, water, and waste generated 2013-14
+2022-12-26 23:41:09,229:INFO:548 rows in the table, scraping this table.
+2022-12-26 23:41:11,648:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/older-people-profile-2016-60-years-and-over/table/
+2022-12-26 23:41:12,390:INFO:Downloaded and saved files from table Older People Profile 2016 (60 years and over)
+2022-12-26 23:41:17,966:INFO:163 less than 200, skipping this table.
+2022-12-26 23:41:23,628:INFO:436 rows in the table, scraping this table.
+2022-12-26 23:41:26,046:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/younger-people-profile-2016-15-24-years/table/?disjunctive.profile&disjunctive.census_year&disjunctive.category&disjunctive.sub_category
+2022-12-26 23:41:26,785:INFO:Downloaded and saved files from table Younger People Profile 2016 (15-24 years)
+2022-12-26 23:41:32,338:INFO:340 rows in the table, scraping this table.
+2022-12-26 23:41:34,685:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/house-prices-by-small-area-transfer-year/table/
+2022-12-26 23:41:35,392:INFO:Downloaded and saved files from table House Prices by Small Area - Transfer Year
+2022-12-26 23:41:40,957:INFO:2438 rows in the table, scraping this table.
+2022-12-26 23:41:43,378:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/workers-profile-2016/table/?disjunctive.profile&disjunctive.census_year&disjunctive.category&disjunctive.sub_category
+2022-12-26 23:41:44,755:INFO:Downloaded and saved files from table Workers Profile 2016
+2022-12-26 23:41:50,322:INFO:9996 rows in the table, scraping this table.
+2022-12-26 23:41:52,694:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/city-of-melbourne-floor-space-forecasts-by-small-area-2020-2040/table/
+2022-12-26 23:41:55,946:INFO:Downloaded and saved files from table City of Melbourne Floor Space Forecasts by Small Area 2021-2041
+2022-12-26 23:42:02,729:INFO:366 rows in the table, scraping this table.
+2022-12-26 23:42:05,118:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/commingled-recycling-collected-at-centre-place-2016/table/
+2022-12-26 23:42:05,845:INFO:Downloaded and saved files from table Commingled recycling collected at Centre Place 2016
+2022-12-26 23:42:11,381:INFO:34 less than 200, skipping this table.
+2022-12-26 23:42:16,944:INFO:53 less than 200, skipping this table.
+2022-12-26 23:42:22,576:INFO:671 rows in the table, scraping this table.
+2022-12-26 23:42:24,998:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/families-with-children-profile-2016-aged-0-12-years/table/
+2022-12-26 23:42:25,840:INFO:Downloaded and saved files from table Families with Children Profile 2016 (aged 0-12 years)
+2022-12-26 23:42:31,420:INFO:366 rows in the table, scraping this table.
+2022-12-26 23:42:33,825:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/organic-waste-collected-at-degraves-st-recycling-facility-2016/table/
+2022-12-26 23:42:34,520:INFO:Downloaded and saved files from table Organic waste collected at Degraves St Recycling Facility 2016
+2022-12-26 23:42:40,142:INFO:206 rows in the table, scraping this table.
+2022-12-26 23:42:43,092:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/venues-for-event-bookings/table/
+2022-12-26 23:42:43,983:INFO:Downloaded and saved files from table Venues for event bookings
+2022-12-26 23:42:49,532:INFO:275 rows in the table, scraping this table.
+2022-12-26 23:42:51,897:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/properties-leased-by-city-of-melbourne/table/
+2022-12-26 23:42:52,583:INFO:Downloaded and saved files from table Properties leased by City of Melbourne
+2022-12-26 23:42:58,196:INFO:64877 rows in the table, scraping this table.
+2022-12-26 23:43:00,699:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/tree-canopies-2014/table/
+2022-12-26 23:43:00,699:INFO:Downloaded and saved files from table Tree canopies 2014
+2022-12-26 23:43:07,440:INFO:261 rows in the table, scraping this table.
+2022-12-26 23:43:10,172:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/public-artworks-fountains-and-monuments/table/
+2022-12-26 23:43:11,049:INFO:Downloaded and saved files from table Public artworks, fountains and monuments
+2022-12-26 23:43:16,668:INFO:32787 rows in the table, scraping this table.
+2022-12-26 23:43:19,018:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/tree-canopies-public-realm-2018-urban-forest/table/
+2022-12-26 23:43:19,018:INFO:Downloaded and saved files from table Tree canopies public realm 2018 (Urban Forest)
+2022-12-26 23:43:24,697:INFO:13 less than 200, skipping this table.
+2022-12-26 23:43:30,245:INFO:1854 rows in the table, scraping this table.
+2022-12-26 23:43:32,606:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/fees-and-charges-2014-15/table/
+2022-12-26 23:43:34,109:INFO:Downloaded and saved files from table Fees and charges 2014-15
+2022-12-26 23:43:39,698:INFO:202 rows in the table, scraping this table.
+2022-12-26 23:43:42,538:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/outdoor-artworks/table/
+2022-12-26 23:43:43,797:INFO:Downloaded and saved files from table Outdoor artworks
+2022-12-26 23:43:49,357:INFO:27 less than 200, skipping this table.
+2022-12-26 23:43:54,961:INFO:88 less than 200, skipping this table.
+2022-12-26 23:44:00,638:INFO:4056 rows in the table, scraping this table.
+2022-12-26 23:44:04,296:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/butterfly-biodiversity-survey-2017/table/
+2022-12-26 23:44:08,412:INFO:Downloaded and saved files from table Butterfly biodiversity survey 2017
+2022-12-26 23:44:14,826:INFO:53 less than 200, skipping this table.
+2022-12-26 23:44:20,482:INFO:310 rows in the table, scraping this table.
+2022-12-26 23:44:23,055:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/plaques-located-at-the-shrine-of-remembrance/table/
+2022-12-26 23:44:23,962:INFO:Downloaded and saved files from table Plaques located at the Shrine of Remembrance
+2022-12-26 23:44:29,554:INFO:2374 rows in the table, scraping this table.
+2022-12-26 23:44:31,973:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/multicultural-community-profile-2016/table/
+2022-12-26 23:44:33,343:INFO:Downloaded and saved files from table Multicultural Community Profile 2016
+2022-12-26 23:44:38,889:INFO:296 rows in the table, scraping this table.
+2022-12-26 23:44:41,339:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/melbourne-conversations-past-events-2001-2017/table/
+2022-12-26 23:44:42,645:INFO:Downloaded and saved files from table Melbourne Conversations past events 2001-2017
+2022-12-26 23:44:48,203:INFO:34 less than 200, skipping this table.
+2022-12-26 23:44:53,792:INFO:133 less than 200, skipping this table.
+2022-12-26 23:44:59,370:INFO:52 less than 200, skipping this table.
+2022-12-26 23:45:04,964:INFO:128 less than 200, skipping this table.
+2022-12-26 23:45:13,026:INFO:364 rows in the table, scraping this table.
+2022-12-26 23:45:15,707:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/estimated-greenhouse-gas-emissions-generated-by-degraves-st-recycling-facility-2/table/
+2022-12-26 23:45:16,442:INFO:Downloaded and saved files from table Estimated greenhouse gas emissions generated by Degraves St Recycling Facility 2016
+2022-12-26 23:45:22,051:INFO:20 less than 200, skipping this table.
+2022-12-26 23:45:28,175:INFO:52 less than 200, skipping this table.
+2022-12-26 23:45:33,833:INFO:76 less than 200, skipping this table.
+2022-12-26 23:45:39,433:INFO:74 less than 200, skipping this table.
+2022-12-26 23:45:45,044:INFO:32 less than 200, skipping this table.
+2022-12-26 23:45:50,853:INFO:119 less than 200, skipping this table.
+2022-12-26 23:45:57,313:INFO:94699 rows in the table, scraping this table.
+2022-12-26 23:46:01,218:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/tree-canopies-2011-urban-forest/table/
+2022-12-26 23:46:01,218:INFO:Downloaded and saved files from table Tree canopies 2011 (Urban Forest)
+2022-12-26 23:46:06,803:INFO:28 less than 200, skipping this table.
+2022-12-26 23:46:12,613:INFO:50 less than 200, skipping this table.
+2022-12-26 23:46:18,993:INFO:132 less than 200, skipping this table.
+2022-12-26 23:46:24,629:INFO:319 rows in the table, scraping this table.
+2022-12-26 23:46:27,221:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/city-of-melbourne-liveability-and-social-indicators/table/
+2022-12-26 23:46:28,339:INFO:Downloaded and saved files from table City of Melbourne Liveability and Social Indicators
+2022-12-26 23:46:33,944:INFO:5 less than 200, skipping this table.
+2022-12-26 23:46:39,551:INFO:16 less than 200, skipping this table.
+2022-12-26 23:46:45,178:INFO:60168 rows in the table, scraping this table.
+2022-12-26 23:46:48,315:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/traffic-count-vehicle-classification-2014-2017/table/
+2022-12-26 23:47:09,325:INFO:Downloaded and saved files from table Traffic Count Vehicle Classification 2014-2017
+2022-12-26 23:47:14,976:INFO:10 less than 200, skipping this table.
+2022-12-26 23:47:22,398:INFO:476 rows in the table, scraping this table.
+2022-12-26 23:47:24,776:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/melbourne-visitor-contact-stats/table/
+2022-12-26 23:47:25,802:INFO:Downloaded and saved files from table Melbourne Visitor Contact Stats
+2022-12-26 23:47:31,388:INFO:447 rows in the table, scraping this table.
+2022-12-26 23:47:33,958:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/assets-for-environmental-reporting/table/
+2022-12-26 23:47:34,947:INFO:Downloaded and saved files from table Assets for environmental reporting
+2022-12-26 23:47:40,573:INFO:664 rows in the table, scraping this table.
+2022-12-26 23:47:43,111:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/social-indicators-for-city-of-melbourne-residents-2019/table/
+2022-12-26 23:47:43,920:INFO:Downloaded and saved files from table Social Indicators for City of Melbourne Residents 2019
+2022-12-26 23:47:50,147:INFO:664 rows in the table, scraping this table.
+2022-12-26 23:47:52,689:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/social-indicators-for-city-of-melbourne-residents-2020/table/
+2022-12-26 23:47:52,689:INFO:Downloaded and saved files from table Social Indicators for City of Melbourne Residents 2020
+2022-12-26 23:47:58,289:INFO:227 rows in the table, scraping this table.
+2022-12-26 23:48:00,831:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/live-music-venues/table/
+2022-12-26 23:48:01,669:INFO:Downloaded and saved files from table Live Music Venues
+2022-12-26 23:48:07,377:INFO:10776 rows in the table, scraping this table.
+2022-12-26 23:48:09,854:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/residents-profiles-by-clue-small-area/table/
+2022-12-26 23:48:14,189:INFO:Downloaded and saved files from table Residents Profiles by CLUE Small Area
+2022-12-26 23:48:19,862:INFO:12222 rows in the table, scraping this table.
+2022-12-26 23:48:23,013:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/footpaths/table/
+2022-12-26 23:48:36,549:INFO:Downloaded and saved files from table Footpaths
+2022-12-26 23:48:43,032:INFO:13587 rows in the table, scraping this table.
+2022-12-26 23:48:45,793:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/property-level-energy-consumption-modelled-on-building-attributes-baseline-2011-/table/
+2022-12-26 23:48:53,248:INFO:Downloaded and saved files from table Property level energy consumption (modelled on building attributes) - baseline 2011 and business as usual projections 2016-2026
+2022-12-26 23:48:58,866:INFO:628 rows in the table, scraping this table.
+2022-12-26 23:49:01,315:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/block-level-energy-consumption-modelled-on-building-attributes-2026-projection-b/table/
+2022-12-26 23:49:03,389:INFO:Downloaded and saved files from table Block level energy consumption (modelled on building attributes) - 2026 projection - business-as-usual scenario
+2022-12-26 23:49:08,987:INFO:17242 rows in the table, scraping this table.
+2022-12-26 23:49:11,793:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/drainpipes/table/
+2022-12-26 23:49:19,895:INFO:Downloaded and saved files from table Drainpipes
+2022-12-26 23:49:25,505:INFO:640 rows in the table, scraping this table.
+2022-12-26 23:49:27,851:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/block-level-energy-consumption-modelled-on-building-attributes-2021-projection-r/table/
+2022-12-26 23:49:27,851:INFO:Downloaded and saved files from table Block level energy consumption (modelled on building attributes) - 2021 projection - retrofit scenario
+2022-12-26 23:49:33,440:INFO:628 rows in the table, scraping this table.
+2022-12-26 23:49:35,771:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/block-level-energy-consumption-modelled-on-building-attributes-2026-projection-r/table/
+2022-12-26 23:49:35,771:INFO:Downloaded and saved files from table Block level energy consumption (modelled on building attributes) - 2026 projection - retrofit scenario
+2022-12-26 23:49:41,311:INFO:662 rows in the table, scraping this table.
+2022-12-26 23:49:43,729:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/block-level-energy-consumption-modelled-on-building-attributes-2016-projection-b/table/
+2022-12-26 23:49:43,729:INFO:Downloaded and saved files from table Block level energy consumption (modelled on building attributes) - 2016 projection - business-as-usual scenario
+2022-12-26 23:49:50,123:INFO:640 rows in the table, scraping this table.
+2022-12-26 23:49:52,542:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/block-level-energy-consumption-modelled-on-building-attributes-2021-projection-b/table/
+2022-12-26 23:49:52,542:INFO:Downloaded and saved files from table Block level energy consumption (modelled on building attributes) - 2021 projection - business-as-usual scenario
+2022-12-26 23:49:58,115:INFO:662 rows in the table, scraping this table.
+2022-12-26 23:50:00,442:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/block-level-energy-consumption-modelled-on-building-attributes-2016-projection-r/table/
+2022-12-26 23:50:00,442:INFO:Downloaded and saved files from table Block level energy consumption (modelled on building attributes) - 2016 projection - retrofit scenario
+2022-12-26 23:50:06,368:INFO:100 less than 200, skipping this table.
+2022-12-26 23:50:11,942:INFO:126 less than 200, skipping this table.
+2022-12-26 23:50:17,550:INFO:37750 rows in the table, scraping this table.
+2022-12-26 23:50:20,202:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/2020-building-footprints/table/
+2022-12-26 23:50:40,337:INFO:Downloaded and saved files from table 2020 Building Footprints
+2022-12-26 23:50:46,249:INFO:8 less than 200, skipping this table.
+2022-12-26 23:50:54,245:INFO:57980 rows in the table, scraping this table.
+2022-12-26 23:50:56,554:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/tree-canopies-2021-urban-forest/table/
+2022-12-26 23:50:56,554:INFO:Downloaded and saved files from table Tree Canopies 2021 (Urban Forest)
+2022-12-26 23:51:03,138:INFO:63 less than 200, skipping this table.
+2022-12-26 23:51:08,653:INFO:935 rows in the table, scraping this table.
+2022-12-26 23:51:11,004:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/pay-stay-zones-linked-to-street-segments/table/
+2022-12-26 23:51:12,052:INFO:Downloaded and saved files from table Pay Stay zones linked to street segments
+2022-12-26 23:51:17,705:INFO:21113 rows in the table, scraping this table.
+2022-12-26 23:51:20,397:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/stormwater-pits/table/
+2022-12-26 23:51:28,091:INFO:Downloaded and saved files from table Stormwater Pits
+2022-12-26 23:51:35,211:INFO:26827 rows in the table, scraping this table.
+2022-12-26 23:51:37,759:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/sign-panels-non-parking/table/
+2022-12-26 23:51:46,718:INFO:Downloaded and saved files from table Sign Panels (Non Parking)
+2022-12-26 23:51:53,125:INFO:76928 rows in the table, scraping this table.
+2022-12-26 23:51:56,121:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/trees-with-species-and-dimensions-urban-forest/table/
+2022-12-26 23:52:23,513:INFO:Downloaded and saved files from table Trees, with species and dimensions (Urban Forest)
+2022-12-26 23:52:29,162:INFO:9 less than 200, skipping this table.
+2022-12-26 23:52:34,779:INFO:56519 rows in the table, scraping this table.
+2022-12-26 23:52:37,371:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/road-segments-with-surface-type/table/
+2022-12-26 23:53:20,173:INFO:Downloaded and saved files from table Road segments, with surface type
+2022-12-26 23:53:26,592:INFO:63 less than 200, skipping this table.
+2022-12-26 23:53:32,195:INFO:129657 rows in the table, scraping this table.
+2022-12-26 23:53:34,796:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/off-street-car-parks-with-capacity-and-type/table/
+2022-12-26 23:54:14,678:INFO:Downloaded and saved files from table Off-street car parks with capacity and type
+2022-12-26 23:54:21,878:INFO:188160 rows in the table, scraping this table.
+2022-12-26 23:54:24,504:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/residential-dwellings/table/
+2022-12-26 23:55:20,335:INFO:Downloaded and saved files from table Residential dwellings
+2022-12-26 23:55:27,355:INFO:66 less than 200, skipping this table.
+2022-12-26 23:55:34,200:INFO:79445 rows in the table, scraping this table.
+2022-12-26 23:55:36,807:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/building-permits/table/
+2022-12-26 23:55:58,802:INFO:Downloaded and saved files from table Building Permits
+2022-12-26 23:56:04,826:INFO:6270 rows in the table, scraping this table.
+2022-12-26 23:56:07,370:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/pay-stay-parking-restrictions/table/
+2022-12-26 23:56:09,806:INFO:Downloaded and saved files from table Pay Stay parking restrictions
+2022-12-26 23:56:16,061:INFO:406 rows in the table, scraping this table.
+2022-12-26 23:56:18,598:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/on-street-parking-bay-sensors/table/?sort=last_updated
+2022-12-26 23:56:19,557:INFO:Downloaded and saved files from table On-street Parking Bay Sensors
+2022-12-26 23:56:25,198:INFO:1258 rows in the table, scraping this table.
+2022-12-26 23:56:27,936:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/development-activity-model-footprints/table/
+2022-12-26 23:56:30,686:INFO:Downloaded and saved files from table Development Activity Model Footprints
+2022-12-26 23:56:36,283:INFO:18392 rows in the table, scraping this table.
+2022-12-26 23:56:39,187:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/pedestrian-historical-data/table/?sort=datetime
+2022-12-26 23:56:48,272:INFO:Downloaded and saved files from table Pedestrian historical data
+2022-12-26 23:56:53,853:INFO:5716 rows in the table, scraping this table.
+2022-12-26 23:56:56,415:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/argyle-pedestrian-counting/table/?sort=interval_start
+2022-12-26 23:56:59,321:INFO:Downloaded and saved files from table Argyle Pedestrian Counting
+2022-12-26 23:57:04,934:INFO:126 less than 200, skipping this table.
+2022-12-26 23:57:10,504:INFO:1176853 rows in the table, scraping this table.
+2022-12-26 23:57:12,958:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/pedestrian-counting-system-past-hour-counts-per-minute/table/?sort=date_time
+2022-12-27 00:04:13,530:INFO:====== WebDriver manager ======
+2022-12-27 00:04:13,865:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2022-12-27 00:04:14,617:INFO:About to download new driver from https://chromedriver.storage.googleapis.com/108.0.5359.71/chromedriver_win32.zip
+2022-12-27 00:04:16,934:INFO:Driver has been saved in cache [C:\Users\PC\.wdm\drivers\chromedriver\win32\108.0.5359]
+2022-12-27 00:04:18,164:INFO:Webdriver setup done.
+2022-12-27 00:04:23,111:INFO:75 different tables found.
+2022-12-27 00:04:23,111:INFO:Iterating through each table
+2022-12-27 00:04:29,668:INFO:1177011 rows in the table, scraping this table.
+2022-12-27 00:04:32,132:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/pedestrian-counting-system-past-hour-counts-per-minute/table/?sort=date_time
+2022-12-27 00:04:32,132:INFO:Downloaded and saved files from table Pedestrian Counting System - Past Hour (counts per minute)
+2022-12-27 00:04:37,691:INFO:3974 rows in the table, scraping this table.
+2022-12-27 00:04:40,661:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/road-segment/table/
+2022-12-27 00:04:51,164:INFO:Downloaded and saved files from table Road Segment
+2022-12-27 00:04:56,875:INFO:605 rows in the table, scraping this table.
+2022-12-27 00:04:59,500:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/city-activities-and-planned-works/table/?disjunctive.classification&disjunctive.small_area
+2022-12-27 00:05:02,739:INFO:Downloaded and saved files from table City Activities and Planned Works
+2022-12-27 00:05:09,264:INFO:84 less than 200, skipping this table.
+2022-12-27 00:05:14,872:INFO:1067 rows in the table, scraping this table.
+2022-12-27 00:05:17,705:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/pre-colonial-plant-list/table/
+2022-12-27 00:05:18,892:INFO:Downloaded and saved files from table Pre-colonial plant list
+2022-12-27 00:05:24,473:INFO:1564 rows in the table, scraping this table.
+2022-12-27 00:05:27,011:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/soil-sensor-readings/table/?sort=date_time
+2022-12-27 00:05:28,432:INFO:Downloaded and saved files from table Soil Sensor Readings
+2022-12-27 00:05:34,797:INFO:58923 rows in the table, scraping this table.
+2022-12-27 00:05:37,307:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/microclimate-sensor-readings/table/?sort=local_time
+2022-12-27 00:06:01,084:INFO:Downloaded and saved files from table Microclimate Sensor Readings
+2022-12-27 00:06:06,795:INFO:28060 rows in the table, scraping this table.
+2022-12-27 00:06:09,280:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/blix-visits/table/?sort=datetime
+2022-12-27 00:06:21,917:INFO:Downloaded and saved files from table Blix Visits - Argyle Square
+2022-12-27 00:07:59,319:INFO:====== WebDriver manager ======
+2022-12-27 00:07:59,687:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2022-12-27 00:08:00,331:INFO:Driver [C:\Users\PC\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2022-12-27 00:08:01,635:INFO:Webdriver setup done.
+2022-12-27 00:08:09,171:INFO:68 different tables found.
+2022-12-27 00:08:09,171:INFO:Iterating through each table
+2022-12-27 00:08:15,660:INFO:28060 rows in the table, scraping this table.
+2022-12-27 00:08:18,190:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/blix-visits/table/?sort=datetime
+2022-12-27 00:08:32,909:INFO:Downloaded and saved files from table Blix Visits - Argyle Square
+2022-12-27 00:09:11,114:INFO:====== WebDriver manager ======
+2022-12-27 00:09:11,418:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2022-12-27 00:09:12,069:INFO:Driver [C:\Users\PC\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2022-12-27 00:09:13,051:INFO:Webdriver setup done.
+2022-12-27 00:09:20,472:INFO:66 different tables found.
+2022-12-27 00:09:20,472:INFO:Iterating through each table
+2022-12-27 00:09:27,099:INFO:215115 rows in the table, scraping this table.
+2022-12-27 00:09:29,643:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/netvox-r718x-bin-sensor/table/?disjunctive.dev_id
+2022-12-27 00:11:00,653:INFO:Downloaded and saved files from table Netvox R718X Bin sensor
+2022-12-27 00:11:07,791:INFO:4263 rows in the table, scraping this table.
+2022-12-27 00:11:12,274:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/on-street-car-park-bay-restrictions/table/
+2022-12-27 00:11:18,392:INFO:Downloaded and saved files from table On-street Car Park Bay Restrictions
+2022-12-27 00:11:23,974:INFO:24715 rows in the table, scraping this table.
+2022-12-27 00:11:26,528:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/on-street-parking-bays/table/
+2022-12-27 00:11:37,689:INFO:Downloaded and saved files from table On-street Parking Bays
+2022-12-27 00:11:43,560:INFO:11788 rows in the table, scraping this table.
+2022-12-27 00:11:46,582:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/business-establishments-per-block-by-clue-industry/table/
+2022-12-27 00:11:51,059:INFO:Downloaded and saved files from table Business establishments per CLUE industry for blocks
+2022-12-27 00:11:56,672:INFO:8564 rows in the table, scraping this table.
+2022-12-27 00:11:59,175:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/feature-lighting-including-light-type-wattage-and-location/table/
+2022-12-27 00:12:02,255:INFO:Downloaded and saved files from table Feature Lighting (including light type, wattage and location)
+2022-12-27 00:12:08,651:INFO:302 rows in the table, scraping this table.
+2022-12-27 00:12:11,018:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/drinking-fountains/table/
+2022-12-27 00:12:11,814:INFO:Downloaded and saved files from table Drinking fountains
+2022-12-27 00:12:17,428:INFO:8 less than 200, skipping this table.
+2022-12-27 00:12:22,990:INFO:74 less than 200, skipping this table.
+2022-12-27 00:12:28,574:INFO:274 rows in the table, scraping this table.
+2022-12-27 00:12:31,053:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/bicycle-routes-including-informal-on-road-and-off-road-routes/table/
+2022-12-27 00:12:32,332:INFO:Downloaded and saved files from table Bicycle routes, including informal, on-road and off-road routes.
+2022-12-27 00:12:37,889:INFO:859 rows in the table, scraping this table.
+2022-12-27 00:12:40,441:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/bookable-banner-poles/table/
+2022-12-27 00:12:41,494:INFO:Downloaded and saved files from table Bookable Banner Poles
+2022-12-27 00:12:47,092:INFO:442 rows in the table, scraping this table.
+2022-12-27 00:12:49,816:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/syringe-bin-locations/table/
+2022-12-27 00:12:50,756:INFO:Downloaded and saved files from table Syringe bin locations
+2022-12-27 00:12:56,339:INFO:77 less than 200, skipping this table.
+2022-12-27 00:13:01,918:INFO:357 rows in the table, scraping this table.
+2022-12-27 00:13:04,342:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/tactile-ground-surface-indicator/table/
+2022-12-27 00:13:05,066:INFO:Downloaded and saved files from table Tactile Ground Surface Indicator
+2022-12-27 00:13:11,455:INFO:213 rows in the table, scraping this table.
+2022-12-27 00:13:13,834:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/marine-berths/table/
+2022-12-27 00:13:14,680:INFO:Downloaded and saved files from table Marine Berths
+2022-12-27 00:13:20,317:INFO:839 rows in the table, scraping this table.
+2022-12-27 00:13:23,025:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/tree-planting-zone-schedules-with-years-urban-forest/table/
+2022-12-27 00:13:24,382:INFO:Downloaded and saved files from table Tree planting zone schedules, with years (Urban Forest)
+2022-12-27 00:13:31,370:INFO:4177 rows in the table, scraping this table.
+2022-12-27 00:13:34,003:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/road-corridors/table/
+2022-12-27 00:13:36,489:INFO:Downloaded and saved files from table Road corridors
+2022-12-27 00:13:42,160:INFO:12 less than 200, skipping this table.
+2022-12-27 00:13:47,772:INFO:6 less than 200, skipping this table.
+2022-12-27 00:13:53,393:INFO:15127 rows in the table, scraping this table.
+2022-12-27 00:13:55,893:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/property-boundaries/table/
+2022-12-27 00:14:02,716:INFO:Downloaded and saved files from table Property boundaries
+2022-12-27 00:14:08,389:INFO:45 less than 200, skipping this table.
+2022-12-27 00:14:14,826:INFO:63721 rows in the table, scraping this table.
+2022-12-27 00:14:17,540:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/street-addresses/table/
+2022-12-27 00:14:41,788:INFO:Downloaded and saved files from table Street addresses
+2022-12-27 00:14:47,846:INFO:307 rows in the table, scraping this table.
+2022-12-27 00:14:50,422:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/fire-hydrants/table/
+2022-12-27 00:14:51,443:INFO:Downloaded and saved files from table Fire Hydrants
+2022-12-27 00:14:57,038:INFO:2876 rows in the table, scraping this table.
+2022-12-27 00:14:59,508:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/street-names/table/
+2022-12-27 00:15:01,354:INFO:Downloaded and saved files from table Street names
+2022-12-27 00:15:07,106:INFO:29 less than 200, skipping this table.
+2022-12-27 00:15:12,760:INFO:23426 rows in the table, scraping this table.
+2022-12-27 00:15:15,508:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/street-furniture-including-bollards-bicycle-rails-bins-drinking-fountains-horse-/table/
+2022-12-27 00:15:24,452:INFO:Downloaded and saved files from table Street furniture including bollards, bicycle rails, bins, drinking fountains, horse troughs, planter boxes, seats, barbecues
+2022-12-27 00:15:30,863:INFO:686 rows in the table, scraping this table.
+2022-12-27 00:15:33,321:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/block-level-energy-consumption-modelled-on-building-attributes-2011-baseline/table/
+2022-12-27 00:15:35,245:INFO:Downloaded and saved files from table Block level energy consumption (modelled on building attributes) - 2011 baseline
+2022-12-27 00:15:40,805:INFO:242 rows in the table, scraping this table.
+2022-12-27 00:15:43,157:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/landmarks-and-places-of-interest-including-schools-theatres-health-services-spor/table/
+2022-12-27 00:15:43,881:INFO:Downloaded and saved files from table Landmarks and places of interest, including schools, theatres, health services, sports facilities, places of worship, galleries and museums.
+2022-12-27 00:15:49,461:INFO:71917 rows in the table, scraping this table.
+2022-12-27 00:15:51,992:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/meshed-sensor-type-2/table/?disjunctive.sensor_name&sort=time
+2022-12-27 00:16:22,703:INFO:Downloaded and saved files from table Micro climate
+2022-12-27 00:17:20,461:INFO:====== WebDriver manager ======
+2022-12-27 00:17:20,756:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2022-12-27 00:17:21,515:INFO:Driver [C:\Users\PC\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2022-12-27 00:17:22,507:INFO:Webdriver setup done.
+2022-12-27 00:17:27,188:INFO:37 different tables found.
+2022-12-27 00:17:27,188:INFO:Iterating through each table
+2022-12-27 00:17:32,935:INFO:80 less than 200, skipping this table.
+2022-12-27 00:17:40,148:INFO:11359 rows in the table, scraping this table.
+2022-12-27 00:17:43,790:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/bom-weather-at-olympic-park/table/?sort=local_date_time_full
+2022-12-27 00:17:51,873:INFO:Downloaded and saved files from table BOM Weather at Olympic Park
+2022-12-27 00:17:57,724:INFO:20 less than 200, skipping this table.
+2022-12-27 00:22:20,189:INFO:====== WebDriver manager ======
+2022-12-27 00:22:20,488:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2022-12-27 00:22:21,254:INFO:Driver [C:\Users\PC\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2022-12-27 00:22:22,253:INFO:Webdriver setup done.
+2022-12-27 00:22:29,972:INFO:36 different tables found.
+2022-12-27 00:22:29,972:INFO:Iterating through each table
+2022-12-27 00:22:36,497:INFO:80 less than 200, skipping this table.
+2022-12-27 00:22:42,074:INFO:20 less than 200, skipping this table.
+2022-12-27 00:22:55,170:INFO:666 rows in the table, scraping this table.
+2022-12-27 00:22:57,690:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/social-indicators-for-city-of-melbourne-residents-2018/table/
+2022-12-27 00:22:58,555:INFO:Downloaded and saved files from table Social Indicators for City of Melbourne Residents 2018
+2022-12-27 00:23:04,569:INFO:91 less than 200, skipping this table.
+2022-12-27 00:23:10,369:INFO:123848 rows in the table, scraping this table.
+2022-12-27 00:23:13,210:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/argyle-square-air-quality/table/?sort=time
+2022-12-27 00:24:09,378:INFO:Downloaded and saved files from table Argyle Square Air Quality
+2022-12-27 00:24:16,094:INFO:30631 rows in the table, scraping this table.
+2022-12-27 00:24:18,775:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/smart-bins-argyle-square/table/?disjunctive.serial&sort=time
+2022-12-27 00:24:32,728:INFO:Downloaded and saved files from table Smart bins Argyle Square
+2022-12-27 00:24:38,550:INFO:1203 rows in the table, scraping this table.
+2022-12-28 19:49:19,971:INFO:====== WebDriver manager ======
+2022-12-28 19:49:20,319:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2022-12-28 19:49:21,048:INFO:About to download new driver from https://chromedriver.storage.googleapis.com/108.0.5359.71/chromedriver_win32.zip
+2022-12-28 19:50:20,408:INFO:====== WebDriver manager ======
+2022-12-28 19:50:20,726:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2022-12-28 19:50:21,337:INFO:About to download new driver from https://chromedriver.storage.googleapis.com/108.0.5359.71/chromedriver_win32.zip
+2022-12-28 19:50:23,427:INFO:Driver has been saved in cache [C:\Users\PC\.wdm\drivers\chromedriver\win32\108.0.5359]
+2022-12-28 19:50:24,627:INFO:Webdriver setup done.
+2022-12-28 19:50:34,571:INFO:36 different tables found.
+2022-12-28 19:50:34,571:INFO:Iterating through each table
+2022-12-28 19:50:41,265:INFO:80 less than 200, skipping this table.
+2022-12-28 19:50:46,848:INFO:20 less than 200, skipping this table.
+2022-12-28 19:50:57,878:INFO:666 rows in the table, scraping this table.
+2022-12-28 19:51:00,431:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/social-indicators-for-city-of-melbourne-residents-2018/table/
+2022-12-28 19:51:01,561:INFO:Downloaded and saved files from table Social Indicators for City of Melbourne Residents 2018
+2022-12-28 19:51:07,147:INFO:91 less than 200, skipping this table.
+2022-12-28 19:51:12,718:INFO:123998 rows in the table, scraping this table.
+2022-12-28 19:51:15,581:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/argyle-square-air-quality/table/?sort=time
+2022-12-28 19:52:16,626:INFO:Downloaded and saved files from table Argyle Square Air Quality
+2022-12-28 19:52:22,251:INFO:30631 rows in the table, scraping this table.
+2022-12-28 19:52:24,891:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/smart-bins-argyle-square/table/?disjunctive.serial&sort=time
+2022-12-28 19:52:39,901:INFO:Downloaded and saved files from table Smart bins Argyle Square
+2022-12-28 19:52:46,500:INFO:1214 rows in the table, scraping this table.
+2022-12-28 19:58:08,561:INFO:====== WebDriver manager ======
+2022-12-28 19:58:08,860:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2022-12-28 19:58:09,578:INFO:Driver [C:\Users\PC\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2022-12-28 19:58:10,562:INFO:Webdriver setup done.
+2022-12-28 19:58:15,584:INFO:30 different tables found.
+2022-12-28 19:58:15,584:INFO:Iterating through each table
+2022-12-28 19:58:22,102:INFO:30631 rows in the table, scraping this table.
+2022-12-28 19:58:24,714:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/smart-bins-argyle-square/table/?disjunctive.serial&sort=time
+2022-12-28 19:58:38,663:INFO:Downloaded and saved files from table Smart bins Argyle Square
+2022-12-28 19:58:45,450:INFO:1214 rows in the table, scraping this table.
+2022-12-28 19:58:48,143:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/microlabs-accelerometer-sensor-data/table/?disjunctive.dev_id&sort=time
+2022-12-28 19:58:49,757:INFO:Downloaded and saved files from table Microlabs Accelerometer Sensor Data
+2022-12-28 19:58:55,348:INFO:97783 rows in the table, scraping this table.
+2022-12-28 19:58:58,019:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/guppy/table/?disjunctive.dev_id&sort=time
+2022-12-28 19:59:41,091:INFO:Downloaded and saved files from table Argyle Square Benches usage data
+2022-12-28 19:59:53,211:INFO:79204 rows in the table, scraping this table.
+2022-12-28 19:59:55,838:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/microlabs-sound-sensor-data/table/?sort=time
+2022-12-28 20:00:31,419:INFO:Downloaded and saved files from table Microlabs Sound Sensor Data
+2022-12-28 20:00:37,213:INFO:21339 rows in the table, scraping this table.
+2022-12-28 20:00:39,817:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/meshed-sensor-type-3/table/?sort=time
+2022-12-28 20:00:49,193:INFO:Downloaded and saved files from table Argyle Square sound stage activity
+2022-12-28 20:00:55,583:INFO:75558 rows in the table, scraping this table.
+2022-12-28 20:00:58,200:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/microlabs-co2-sensor-data/table/?sort=time
+2022-12-28 20:01:32,049:INFO:Downloaded and saved files from table Microlabs CO2 Sensor Data
+2022-12-28 20:01:37,679:INFO:69051 rows in the table, scraping this table.
+2022-12-28 20:01:40,524:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/meshed-sensor-type-1/table/?sort=time
+2022-12-28 20:02:21,149:INFO:Downloaded and saved files from table Argyle Square weather stations (historical data)
+2022-12-28 20:02:44,800:INFO:366 rows in the table, scraping this table.
+2022-12-28 20:02:47,403:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/commingled-recycling-collected-at-degraves-st-hub-2016/table/
+2022-12-28 20:02:48,278:INFO:Downloaded and saved files from table Commingled recycling collected at Degraves St Hub 2016
+2022-12-28 20:03:22,273:INFO:2827 rows in the table, scraping this table.
+2022-12-28 20:03:24,686:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/event-permits-2014-2018-including-film-shoots-photo-shoots-weddings-christmas-pa/table/
+2022-12-28 20:03:28,178:INFO:Downloaded and saved files from table Event permits 2014-2018 including film shoots, photo shoots, weddings, Christmas parties, promotions, fun runs and public events.
+2022-12-28 20:04:44,161:INFO:85326 rows in the table, scraping this table.
+2022-12-28 20:04:46,515:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/pedestrian-network/table/
+2022-12-28 20:06:21,518:INFO:Downloaded and saved files from table Pedestrian Network
+2022-12-28 20:06:29,015:INFO:130048 rows in the table, scraping this table.
+2022-12-28 20:06:31,584:INFO:Extracted all the required data from table https://data.melbourne.vic.gov.au/explore/dataset/bicycle-network/table/
+2022-12-28 20:08:41,769:INFO:Downloaded and saved files from table Bicycle Network
