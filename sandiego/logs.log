@@ -1,0 +1,255 @@
+2023-01-09 01:52:53,645:INFO:====== WebDriver manager ======
+2023-01-09 01:52:54,551:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2023-01-09 01:52:55,865:INFO:Driver [C:\Users\Ishwor\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2023-01-09 01:52:56,859:INFO:Webdriver setup done.
+2023-01-09 01:53:00,874:INFO:100 different tables found.
+2023-01-09 01:53:00,874:INFO:Iterating through each table
+2023-01-09 01:53:07,200:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/tot-establishments/
+2023-01-09 01:53:11,110:INFO:Downloaded and saved files from table Active TOT Vacation Certificates
+2023-01-09 01:53:16,733:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/rtax-accounts/
+2023-01-09 01:53:20,875:INFO:Downloaded and saved files from table Rental Unit Business Tax Accounts
+2023-01-09 01:53:26,444:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/public-art/
+2023-01-09 01:53:29,789:INFO:Downloaded and saved files from table Locations of artwork in the Civic Art Collection
+2023-01-09 01:53:35,678:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/parking-meters-transactions/
+2023-01-09 01:53:39,582:INFO:Downloaded and saved files from table Parking Meters Transactions
+2023-01-09 01:53:45,177:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/parking-meters-locations/
+2023-01-09 01:53:49,330:INFO:Downloaded and saved files from table Parking Meters Locations
+2023-01-09 01:53:54,948:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/monitoring-of-indicator-bacteria-in-drinking-water/
+2023-01-09 01:53:59,040:INFO:Downloaded and saved files from table Monitoring of Indicator Bacteria in Drinking Water
+2023-01-09 01:54:04,999:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/fire-incidents/
+2023-01-09 01:54:09,439:INFO:Downloaded and saved files from table Fire Incidents
+2023-01-09 01:54:15,010:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/fire-incident-problem-agg/
+2023-01-09 01:57:17,356:INFO:====== WebDriver manager ======
+2023-01-09 01:57:18,254:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2023-01-09 01:57:19,350:INFO:Driver [C:\Users\Ishwor\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2023-01-09 01:57:20,339:INFO:Webdriver setup done.
+2023-01-09 01:57:24,245:INFO:100 different tables found.
+2023-01-09 01:57:24,245:INFO:Iterating through each table
+2023-01-09 01:57:30,550:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/tot-establishments/
+2023-01-09 01:57:34,497:INFO:Downloaded and saved files from table Active TOT Vacation Certificates
+2023-01-09 01:57:40,139:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/rtax-accounts/
+2023-01-09 01:57:44,169:INFO:Downloaded and saved files from table Rental Unit Business Tax Accounts
+2023-01-09 01:57:49,729:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/public-art/
+2023-01-09 01:57:52,896:INFO:Downloaded and saved files from table Locations of artwork in the Civic Art Collection
+2023-01-09 01:57:58,881:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/parking-meters-transactions/
+2023-01-09 01:58:02,536:INFO:Downloaded and saved files from table Parking Meters Transactions
+2023-01-09 01:58:08,227:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/parking-meters-locations/
+2023-01-09 01:58:12,246:INFO:Downloaded and saved files from table Parking Meters Locations
+2023-01-09 01:58:17,865:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/monitoring-of-indicator-bacteria-in-drinking-water/
+2023-01-09 01:58:21,810:INFO:Downloaded and saved files from table Monitoring of Indicator Bacteria in Drinking Water
+2023-01-09 01:58:27,763:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/fire-incidents/
+2023-01-09 01:58:32,328:INFO:Downloaded and saved files from table Fire Incidents
+2023-01-09 01:58:38,071:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/fire-incident-problem-agg/
+2023-01-09 01:58:42,008:INFO:Downloaded and saved files from table Fire Incident Problem Counts
+2023-01-09 01:58:47,917:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/financial-support-candidates-and-ballot-measures-election/
+2023-01-09 01:58:52,737:INFO:Downloaded and saved files from table Financial Support for Candidates and Ballot Measures up for Election
+2023-01-09 01:58:58,317:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/development-permits-tags/
+2023-01-09 01:59:02,093:INFO:Downloaded and saved files from table Development Services Department Project Tags
+2023-01-09 01:59:07,723:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/development-permits-set2/
+2023-01-09 01:59:12,337:INFO:Downloaded and saved files from table Development Permits
+2023-01-09 01:59:18,033:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/development-permits-set1/
+2023-01-09 01:59:23,046:INFO:Downloaded and saved files from table Development Permits legacy data
+2023-01-09 01:59:28,693:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/city-owned-properties-parcels/
+2023-01-09 01:59:31,722:INFO:Downloaded and saved files from table City Owned Properties - Parcels
+2023-01-09 01:59:37,321:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/city-owned-properties-leases/
+2023-01-09 01:59:40,506:INFO:Downloaded and saved files from table City Owned Properties - Leases
+2023-01-09 01:59:46,117:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/city-owned-properties-details/
+2023-01-09 01:59:50,032:INFO:Downloaded and saved files from table City Owned Properties - Details
+2023-01-09 01:59:55,691:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/business-listings/
+2023-01-09 02:00:00,508:INFO:Downloaded and saved files from table Business Tax Certificates
+2023-01-09 02:00:06,120:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/traffic-volumes/
+2023-01-09 02:00:11,023:INFO:Downloaded and saved files from table Traffic Volumes
+2023-01-09 02:00:16,633:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/police-collisions/
+2023-01-09 02:00:21,011:INFO:Downloaded and saved files from table Traffic collisions - basic reports
+2023-01-09 02:00:26,623:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/police-collisions-details/
+2023-01-09 02:17:10,972:INFO:====== WebDriver manager ======
+2023-01-09 02:17:11,326:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2023-01-09 02:17:12,226:INFO:Driver [C:\Users\Ishwor\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2023-01-09 02:17:13,203:INFO:Webdriver setup done.
+2023-01-09 02:17:17,392:INFO:100 different tables found.
+2023-01-09 02:17:17,392:INFO:Iterating through each table
+2023-01-09 02:17:23,977:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/tot-establishments/
+2023-01-09 02:17:27,914:INFO:Downloaded and saved files from table Active TOT Vacation Certificates
+2023-01-09 02:17:33,680:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/rtax-accounts/
+2023-01-09 02:17:37,756:INFO:Downloaded and saved files from table Rental Unit Business Tax Accounts
+2023-01-09 02:17:43,421:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/public-art/
+2023-01-09 02:17:46,893:INFO:Downloaded and saved files from table Locations of artwork in the Civic Art Collection
+2023-01-09 02:17:53,141:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/parking-meters-transactions/
+2023-01-09 02:17:57,033:INFO:Downloaded and saved files from table Parking Meters Transactions
+2023-01-09 02:18:02,933:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/parking-meters-locations/
+2023-01-09 02:18:07,038:INFO:Downloaded and saved files from table Parking Meters Locations
+2023-01-09 02:18:12,808:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/monitoring-of-indicator-bacteria-in-drinking-water/
+2023-01-09 02:18:17,017:INFO:Downloaded and saved files from table Monitoring of Indicator Bacteria in Drinking Water
+2023-01-09 02:18:23,153:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/fire-incidents/
+2023-01-09 02:18:27,770:INFO:Downloaded and saved files from table Fire Incidents
+2023-01-09 02:18:33,510:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/fire-incident-problem-agg/
+2023-01-09 02:18:37,326:INFO:Downloaded and saved files from table Fire Incident Problem Counts
+2023-01-09 02:18:43,286:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/financial-support-candidates-and-ballot-measures-election/
+2023-01-09 02:18:47,482:INFO:Downloaded and saved files from table Financial Support for Candidates and Ballot Measures up for Election
+2023-01-09 02:18:53,224:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/development-permits-tags/
+2023-01-09 02:18:57,157:INFO:Downloaded and saved files from table Development Services Department Project Tags
+2023-01-09 02:19:02,935:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/development-permits-set2/
+2023-01-09 02:19:07,782:INFO:Downloaded and saved files from table Development Permits
+2023-01-09 02:19:13,762:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/development-permits-set1/
+2023-01-09 02:19:18,897:INFO:Downloaded and saved files from table Development Permits legacy data
+2023-01-09 02:19:24,547:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/city-owned-properties-parcels/
+2023-01-09 02:19:27,559:INFO:Downloaded and saved files from table City Owned Properties - Parcels
+2023-01-09 02:19:33,192:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/city-owned-properties-leases/
+2023-01-09 02:19:36,289:INFO:Downloaded and saved files from table City Owned Properties - Leases
+2023-01-09 02:19:41,948:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/city-owned-properties-details/
+2023-01-09 02:19:45,733:INFO:Downloaded and saved files from table City Owned Properties - Details
+2023-01-09 02:19:51,684:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/business-listings/
+2023-01-09 02:19:57,247:INFO:Downloaded and saved files from table Business Tax Certificates
+2023-01-09 02:20:02,855:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/traffic-volumes/
+2023-01-09 02:20:07,061:INFO:Downloaded and saved files from table Traffic Volumes
+2023-01-09 02:20:12,750:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/police-collisions/
+2023-01-09 02:20:17,147:INFO:Downloaded and saved files from table Traffic collisions - basic reports
+2023-01-09 02:20:22,820:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/police-collisions-details/
+2023-01-09 12:52:39,352:INFO:====== WebDriver manager ======
+2023-01-09 12:52:39,833:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2023-01-09 12:52:40,352:INFO:Driver [C:\Users\Ishwor\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2023-01-09 12:52:41,358:INFO:Webdriver setup done.
+2023-01-09 12:53:23,292:INFO:====== WebDriver manager ======
+2023-01-09 12:53:23,553:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2023-01-09 12:53:24,021:INFO:Driver [C:\Users\Ishwor\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2023-01-09 12:53:25,011:INFO:Webdriver setup done.
+2023-01-09 12:55:26,626:INFO:====== WebDriver manager ======
+2023-01-09 12:55:26,904:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2023-01-09 12:55:27,645:INFO:Driver [C:\Users\Ishwor\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2023-01-09 12:55:28,638:INFO:Webdriver setup done.
+2023-01-09 12:56:51,855:INFO:====== WebDriver manager ======
+2023-01-09 12:56:52,124:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2023-01-09 12:56:52,606:INFO:Driver [C:\Users\Ishwor\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2023-01-09 12:56:53,590:INFO:Webdriver setup done.
+2023-01-09 12:57:37,034:INFO:====== WebDriver manager ======
+2023-01-09 12:57:37,299:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2023-01-09 12:57:37,827:INFO:Driver [C:\Users\Ishwor\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2023-01-09 12:57:38,811:INFO:Webdriver setup done.
+2023-01-09 13:06:55,894:INFO:====== WebDriver manager ======
+2023-01-09 13:06:56,165:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2023-01-09 13:06:56,658:INFO:Driver [C:\Users\Ishwor\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2023-01-09 13:06:57,623:INFO:Webdriver setup done.
+2023-01-09 13:07:06,585:INFO:100 different tables found.
+2023-01-09 13:07:06,585:INFO:Iterating through each table
+2023-01-09 13:07:37,358:INFO:====== WebDriver manager ======
+2023-01-09 13:07:37,619:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2023-01-09 13:07:38,095:INFO:Driver [C:\Users\Ishwor\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2023-01-09 13:07:39,092:INFO:Webdriver setup done.
+2023-01-09 13:07:42,733:INFO:100 different tables found.
+2023-01-09 13:07:42,733:INFO:Iterating through each table
+2023-01-09 13:07:49,440:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/tot-establishments/
+2023-01-09 13:07:53,504:INFO:Downloaded and saved files from table Active TOT Vacation Certificates
+2023-01-09 13:07:59,736:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/rtax-accounts/
+2023-01-09 14:32:12,553:INFO:====== WebDriver manager ======
+2023-01-09 14:32:12,826:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2023-01-09 14:32:13,305:INFO:Driver [C:\Users\Ishwor\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2023-01-09 14:32:14,299:INFO:Webdriver setup done.
+2023-01-09 14:32:18,170:INFO:100 different tables found.
+2023-01-09 14:32:18,170:INFO:Iterating through each table
+2023-01-09 14:32:24,236:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/tot-establishments/
+2023-01-09 14:32:28,124:INFO:Downloaded and saved files from table Active TOT Vacation Certificates
+2023-01-09 14:32:34,232:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/rtax-accounts/
+2023-01-09 14:32:38,039:INFO:Downloaded and saved files from table Rental Unit Business Tax Accounts
+2023-01-09 14:32:43,883:INFO:Error occured...please restart the program
+2023-01-09 14:32:43,883:INFO:Exiting now...
+2023-01-09 14:33:05,073:INFO:====== WebDriver manager ======
+2023-01-09 14:33:05,342:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2023-01-09 14:33:05,826:INFO:Driver [C:\Users\Ishwor\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2023-01-09 14:33:06,810:INFO:Webdriver setup done.
+2023-01-09 14:33:10,455:INFO:100 different tables found.
+2023-01-09 14:33:10,455:INFO:Iterating through each table
+2023-01-09 14:33:16,694:INFO:Error occured...please restart the program
+2023-01-09 14:33:16,694:INFO:Exiting now...
+2023-01-09 14:33:32,823:INFO:====== WebDriver manager ======
+2023-01-09 14:33:33,092:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2023-01-09 14:33:33,918:INFO:Driver [C:\Users\Ishwor\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2023-01-09 14:33:34,916:INFO:Webdriver setup done.
+2023-01-09 14:33:38,561:INFO:100 different tables found.
+2023-01-09 14:33:38,561:INFO:Iterating through each table
+2023-01-09 14:33:44,164:INFO:Error occured...please restart the program
+2023-01-09 14:33:44,164:INFO:Exiting now...
+2023-01-09 14:33:52,441:INFO:====== WebDriver manager ======
+2023-01-09 14:33:52,714:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2023-01-09 14:33:53,195:INFO:Driver [C:\Users\Ishwor\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2023-01-09 14:33:54,182:INFO:Webdriver setup done.
+2023-01-09 14:33:57,479:INFO:100 different tables found.
+2023-01-09 14:33:57,479:INFO:Iterating through each table
+2023-01-09 14:34:03,681:INFO:Error occured...please restart the program
+2023-01-09 14:34:03,681:INFO:Exiting now...
+2023-01-09 14:35:43,915:INFO:====== WebDriver manager ======
+2023-01-09 14:35:44,180:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2023-01-09 14:35:44,661:INFO:Driver [C:\Users\Ishwor\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2023-01-09 14:35:45,638:INFO:Webdriver setup done.
+2023-01-09 14:35:49,577:INFO:100 different tables found.
+2023-01-09 14:35:49,577:INFO:Iterating through each table
+2023-01-09 14:35:55,169:INFO:Error occured...please restart the program
+2023-01-09 14:35:55,169:INFO:Exiting now...
+2023-01-09 14:52:52,591:INFO:====== WebDriver manager ======
+2023-01-09 14:52:52,852:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2023-01-09 14:52:53,328:INFO:Driver [C:\Users\Ishwor\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2023-01-09 14:52:54,311:INFO:Webdriver setup done.
+2023-01-09 14:52:58,124:INFO:100 different tables found.
+2023-01-09 14:52:58,124:INFO:Iterating through each table
+2023-01-09 14:53:03,779:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/public-art/
+2023-01-09 14:53:07,277:INFO:Downloaded and saved files from table Locations of artwork in the Civic Art Collection
+2023-01-09 14:53:13,347:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/police-collisions/
+2023-01-09 14:53:18,379:INFO:Downloaded and saved files from table Traffic collisions - basic reports
+2023-01-09 14:53:24,009:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/police-collisions-details/
+2023-01-09 14:53:25,252:INFO:Error occured...please restart the program
+2023-01-09 14:53:25,252:INFO:Exiting now...
+2023-01-09 14:54:37,842:INFO:====== WebDriver manager ======
+2023-01-09 14:54:38,112:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2023-01-09 14:54:38,604:INFO:Driver [C:\Users\Ishwor\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2023-01-09 14:54:39,592:INFO:Webdriver setup done.
+2023-01-09 14:54:43,417:INFO:100 different tables found.
+2023-01-09 14:54:43,417:INFO:Iterating through each table
+2023-01-09 14:54:49,446:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/police-collisions-details/
+2023-01-09 14:54:50,782:INFO:Error occured...please restart the program
+2023-01-09 14:54:50,782:INFO:Exiting now...
+2023-01-09 15:03:35,689:INFO:====== WebDriver manager ======
+2023-01-09 15:03:35,956:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2023-01-09 15:03:36,435:INFO:Driver [C:\Users\Ishwor\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2023-01-09 15:03:37,388:INFO:Webdriver setup done.
+2023-01-09 15:03:41,282:INFO:100 different tables found.
+2023-01-09 15:03:41,282:INFO:Iterating through each table
+2023-01-09 15:03:47,357:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/police-collisions-details/
+2023-01-09 15:03:48,657:INFO:Error occured...please restart the program
+2023-01-09 15:03:48,657:INFO:Exiting now...
+2023-01-09 15:05:18,864:INFO:====== WebDriver manager ======
+2023-01-09 15:05:19,129:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2023-01-09 15:05:19,611:INFO:Driver [C:\Users\Ishwor\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2023-01-09 15:05:20,575:INFO:Webdriver setup done.
+2023-01-09 15:05:24,583:INFO:100 different tables found.
+2023-01-09 15:05:24,583:INFO:Iterating through each table
+2023-01-09 15:05:30,226:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/police-collisions-details/
+2023-01-09 15:05:31,560:INFO:Error occured...please restart the program
+2023-01-09 15:05:31,560:INFO:Exiting now...
+2023-01-09 15:08:11,296:INFO:====== WebDriver manager ======
+2023-01-09 15:08:11,565:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2023-01-09 15:08:12,044:INFO:Driver [C:\Users\Ishwor\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2023-01-09 15:08:13,032:INFO:Webdriver setup done.
+2023-01-09 15:08:16,835:INFO:100 different tables found.
+2023-01-09 15:08:16,835:INFO:Iterating through each table
+2023-01-09 15:08:23,168:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/police-collisions-details/
+2023-01-09 15:08:24,516:INFO:Error occured...please restart the program
+2023-01-09 15:08:24,516:INFO:Exiting now...
+2023-01-09 15:08:51,647:INFO:====== WebDriver manager ======
+2023-01-09 15:08:51,912:INFO:Get LATEST chromedriver version for google-chrome 108.0.5359
+2023-01-09 15:08:52,663:INFO:Driver [C:\Users\Ishwor\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+2023-01-09 15:08:53,667:INFO:Webdriver setup done.
+2023-01-09 15:08:57,308:INFO:100 different tables found.
+2023-01-09 15:08:57,308:INFO:Iterating through each table
+2023-01-09 15:09:02,946:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/police-collisions-details/
+2023-01-09 15:09:05,453:INFO:Downloaded and saved files from table Traffic collisions - people and vehicles involved
+2023-01-09 15:09:11,234:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/police-calls-for-service/
+2023-01-09 15:09:15,492:INFO:Downloaded and saved files from table Police Calls for Service
+2023-01-09 15:09:21,471:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/parking-meters-transactions/
+2023-01-09 15:09:26,274:INFO:Downloaded and saved files from table Parking Meters Transactions
+2023-01-09 15:09:31,834:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/parking-meters-locations/
+2023-01-09 15:09:35,831:INFO:Downloaded and saved files from table Parking Meters Locations
+2023-01-09 15:09:41,402:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/monitoring-of-indicator-bacteria-in-drinking-water/
+2023-01-09 15:09:45,347:INFO:Downloaded and saved files from table Monitoring of Indicator Bacteria in Drinking Water
+2023-01-09 15:09:50,880:INFO:Extracted all the required data from table https://data.sandiego.gov/datasets/gid-pothole/
+2023-01-09 15:09:55,860:INFO:Downloaded and saved files from table Pothole Repair Requests
+2023-01-09 15:10:01,322:INFO:Error occured...please restart the program
+2023-01-09 15:10:01,322:INFO:Exiting now...
