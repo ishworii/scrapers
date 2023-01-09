@@ -2,3 +2,4 @@ data/
 chromedriver.exe
 gov_data_singapore/
 env/
+*/__pycache__/
