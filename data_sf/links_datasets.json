@@ -1,0 +1,1657 @@
+[
+  {
+    "link": "https://data.sfgov.org/Public-Safety/San-Andreas-M7-8-Earthquake-Scenario/akmp-ztcg",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Public-Safety/Traffic-Crashes-Resulting-in-Injury/ubvf-ztfx",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Form-700-comments/2ycd-bb2c",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Housing-and-Buildings/Landmarks-Listed-in-Article-10-of-the-San-Francisc/97yj-54sx",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/SFEC-Form-31104a-Filing-Officer-Report-Non-Filers/bjbu-wb5z",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Transportation/Painted-Safety-Zones/vtn2-q8ky",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Transportation/2014-SFO-Customer-Survey/xr4w-bx78",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Transportation/Residential-Parking-Permit-Eligibility-Parcels/i886-hxz9",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Geographic-Locations-and-Boundaries/Supervisor-Districts-2022-/f2zs-jevy",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Culture-and-Recreation/Functional-Areas-maintained-by-Recreation-and-Park/38b7-6db3",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/SFEC-Form-114-5-Behested-Contributions-Received-by/hyuc-khdi",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Transportation/Commuter-Shuttle-Stops/hnxa-ebrb",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Public-Safety/100-Year-Storm-24-Sea-Level-Rise/esku-ejgv",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Housing-and-Buildings/Reference-Assessor-Recorder-Exemption-Codes/g77e-ikb4",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Energy-and-Environment/San-Francisco-Municipal-Energy-Benchmarking/k3fc-45qw",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Transportation/Blockfaces/pep9-66vw",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Public-Funds-Disbursed-November-4/n5sf-qqmx",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Geographic-Locations-and-Boundaries/Intersections-by-Each-Cross-Street-Permutation/jfxm-zeee",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/dataset/SFO-Commercial-Vehicle-Information/p6ht-ubmk",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Public-Safety/Landslide-Susceptibility-Hazard-Zones/bna4-itif",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/SFEC-Form-114-5-Behested-Contributions-Received-by/mq45-f9zi",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Consultants-Employment-of-Local-Officehol/myxh-kx93",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Geographic-Locations-and-Boundaries/OEWD-Public-Spaces/gkqa-s74m",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Economy-and-Community/Priority-Development-Areas/k5ee-yrip",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Culture-and-Recreation/Linear-Assets-Maintained-by-the-Recreation-and-Par/rny7-88gk",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Transportation/MTA-BayAreaBikeShareStations/7jbp-yzp3",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Explorer-App/aghq-vgvd",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Culture-and-Recreation/Assets-Maintained-by-the-Recreation-and-Parks-Depa/e3jj-mbb3",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Health-and-Social-Services/Language-Access-Ordinance-Compliance/fx53-jkka",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Transportation/SFMTA-Transit-Vehicle-Location-History-2020-/48aa-8sj9",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Transportation/Safer-Routes-Program-Schools/bhj2-gxup",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Housing-and-Buildings/Mayor-s-Office-of-Housing-and-Community-Developmen/udmf-verx",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Transportation/Traffic-Circles/c5wg-gcqb",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/SFEC-Form-3600-Board-And-Commission-Member-Beheste/59sr-386y",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Expenditure-Lobbyists-Registration-and-Monthly-Dis/dnhe-svq6",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/dataset/Streets-with-Vehicle-Restrictions/5mt3-4e49",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/SFEC-Form-124-Contributions-Made-by-Business-Entit/ssx6-3d9r",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Public-Safety/Dam-or-Reservoir-Failure-Hazard-Zone/7crf-46s6",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Transportation/Motorcycle-Parking-Unmetered/egmb-2zhs",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Transportation/Special-Event-or-Evening-Meter-Areas/itv4-r6g6",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Culture-and-Recreation/Park-Sections/8du2-b837",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-List-of-Candidates-Running-for-Of/npcx-9w98",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Open-Data-Portal-Dataset-Attachments/a2hm-yzs6",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/SF311-Prior-Case-Data-Structure/bk8g-9b93",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Health-and-Social-Services/Mpox-Case-Summary/5cki-ur53",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Housing-and-Buildings/SF-Development-Pipeline-2021-Q3/4ay7-dtaw",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Transportation/SFMTA-Projects-Lines/evfs-dvkf",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Housing-and-Buildings/SF-Development-Pipeline-2020-Q2/mm2x-xj5y",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/SFEC-Form-125-Bundled-Contributions-Disclosure-Rep/wv58-ismt",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Public-Safety/Tsunami-Inundation-Hazard-Zone-Outdated-2015-/q7uq-hghg",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Housing-and-Buildings/Mayor-s-Office-of-Housing-and-Community-Developmen/f5ak-rkkp",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/COVID-19/COVID-19-Tenderloin-Plan-Zones/xw26-dnmx",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/COVID-19/COVID-19-Manifold-Locations/2yqu-j4jc",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-List-of-Candidates-Running-for-Of/56zn-mms6",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/Proposed-Commercial-Wireless-Telecommunication-Ser/ewnu-9y3h",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Individual-Expenditure-Ceilings-I/cgah-zci4",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Geographic-Locations-and-Boundaries/Parks-Alliance-CPSI-27-sites-/paga-mvn7",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-List-Of-Candidates-Running-For-Of/uvqv-zi4r",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Status-Of-Voluntary-Expenditure-C/ct8k-kggq",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/COVID-19/COVID-19-Vaccinations-Given-to-SF-Residents-by-Dem/g8hh-rwgb",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Housing-and-Buildings/DBI-Building-Inspection-Division-Districts/pcra-csp6",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Status-of-Voluntary-Expenditure-C/bmnx-cibx",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Transportation/Crossing-Guard-Program-Schools/jmdm-q43s",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Individual-Expenditure-Ceilings-I/wv7d-caby",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Transportation/Greenwave-Bicycle-Signals/a5zr-cehj",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Transportation/Parking-Management-Districts/6vtc-mmhr",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Transportation/SFO-Screening-Checkpoint-Satisfaction-May-2019/jt6x-6hpy",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Public-Funds-Disbursed-November-8/nmzh-y378",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Geographic-Locations-and-Boundaries/Departmental-Review-of-FSR-Datasets-Status/bztm-6q4a",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/SFEC-Form-125-Bundled-Contributions-Disclosure-Rep/x9je-gi3q",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Housing-and-Buildings/DBI-Plumbing-Inspection-Division-Districts/u3rf-fdu7",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Status-Of-Voluntary-Expenditure-C/4qsp-ix5t",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/SFEC-Form-107-Training-for-Candidates-and-Treasure/i2q2-jqhq",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Summary-Of-Third-Party-Disclosure/7i7v-m2wn",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/SFEC-Form-125-Bundled-Contributions-Disclosure-Rep/dzp4-4my5",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/SFEC-Form-3600-Board-and-Commission-Member-Beheste/ibrg-quig",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Geographic-Locations-and-Boundaries/Parks-Alliance-CPSI-27-TL-sites-/qjyb-yy3m",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Health-and-Social-Services/Mpox-Vaccinations-Given-to-SF-Residents-by-Demogra/fk8q-nu3s",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Public-Financing-Report-Total-Candidate-Spending-i/h2wp-niyk",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Status-of-Voluntary-Expenditure-C/kahd-w39p",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Public-Funds-Disbursed-November-3/pnpu-7zb5",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Health-and-Social-Services/Mpox-Vaccinations-Given-to-SF-Residents-Over-Time/6vxp-9av3",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Transportation/SFMTA-Projects-Polygons/6ibt-jpn7",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Transportation/MTA-Fuel-Usage/nz48-2k5q",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Individual-Expenditure-Ceilings-I/c27p-2c4v",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Transportation/SFO-Screening-Checkpoint-Satisfaction-October-2019/xyey-v962",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Geographic-Locations-and-Boundaries/Historic-Districts/63x5-g3m4",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Transportation/SFMTA-Projects-Points/j4dm-6zyr",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Transportation/Blockfaces-with-Meters/mk27-a5x2",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/SF311-Queue-Mapping/kkam-w63c",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Geographic-Locations-and-Boundaries/Census-2020-Block-Groups-for-San-Francisco/24e8-pd2q",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Status-Of-Voluntary-Expenditure-C/4va5-ssaq",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/COVID-19/COVID-19-Vaccinations-Given-to-SF-Residents-Over-T/rutu-rpar",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Housing-and-Buildings/DBI-Housing-Inspection-Services-Districts/cq4r-nm4f",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/dataset/Functional-Areas/4quy-ttkr",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/San-Francisco-Ballot-Propositions-Database-Histori/88s2-6ua9",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/COVID-19/COVID-19-Vaccinations-Given-to-SF-Residents-by-Geo/ejrc-vnwu",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Transportation/Crossing-Guard-Intersections/ujya-ewdj",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/SFEC-Form-3630-Recipients-of-Major-Behested-Paymen/4zc6-sp7h",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Public-Safety/Hayward-M7-0-Earthquake-Scenario/d6pi-gknj",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Public-Safety/Traffic-Crashes-Resulting-in-Injury-Parties-Involv/8gtc-pjc6",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/SFEC-Form-3610b-City-Officers-Behested-Payment-Rep/kcez-9urr",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/SFEC-Form-3610b-City-Officer-Behested-Payment-Comm/djme-me26",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/SFEC-Form-113-Important-Notice-for-Initiative-Reca/48rt-5dkm",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/SFEC-Form-122-Transfer-of-Funds-Filings/i7fj-76x7",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Housing-and-Buildings/-DEPRECATED-SF-Development-Pipeline-2022-Q1/f7r8-58gw",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Public-Safety/Traffic-Crashes-Resulting-in-Injury-Victims-Involv/nwes-mmgh",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/SFEC-Form-3630-Recipients-of-Major-Behested-Paymen/f6bn-myui",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/SFEC-143-Requests-by-Candidates-for-Independent-De/5cap-nnzt",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Housing-and-Buildings/SF-Development-Pipeline-2022-Q2/httc-cz47",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/dataset/ESNCAG-Boundary-File/8cs3-kxq7",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/SFEC-Form-128-Acceptance-of-Expense-Ceiling-Filing/h8vs-2sf8",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Housing-and-Buildings/SF-Development-Pipeline-2021-Q1/prmp-bj7n",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Housing-and-Buildings/DBI-Electrical-Inspection-Division-Districts/p5ar-a8ns",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Housing-and-Buildings/SF-Development-Pipeline-2021-Q2/iwbt-5xpd",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/SFEC-Form-134b-Candidate-s-Notice-of-Exceeding-100/r6ws-g6g2",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/SFEC-Form-3630-Recipients-of-Major-Behested-Paymen/u5nr-bxj6",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Transportation/BART-Daily-Station-Exits/m2xz-p7ja",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Housing-and-Buildings/SF-Development-Pipeline-2019-Q3/7yx4-u2y9",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/Facilities-SFHA-OCII-and-City-College/iy5s-yhhb",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Geographic-Locations-and-Boundaries/Census-2020-Blocks-for-San-Francisco/p2fw-hsrv",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Expenditures-Explorer-App/yh6b-y6di",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Geographic-Locations-and-Boundaries/Census-2020-Blocks-for-San-Francisco-Clipped-to-th/e2st-aufe",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Geographic-Locations-and-Boundaries/Landmarks/rzic-39gi",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Geographic-Locations-and-Boundaries/Current-Supervisor-Districts/cqbw-m5m3",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Geographic-Locations-and-Boundaries/Census-2020-Block-Groups-for-San-Francisco-Clipped/6rf8-dnst",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/COVID-19/COVID-19-Vaccinations-Given-to-SF-Residents-by-Dem/sej3-bbrc",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Housing-and-Buildings/SF-Development-Pipeline-2022-Q3/ywks-3zda",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Open-Data-Portal-Usage-Quarterly/cnjz-atr9",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Housing-and-Buildings/SF-Development-Pipeline-2022-Q1-REVISED-/ybkd-mgtp",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Geographic-Locations-and-Boundaries/Planning-Department-s-Current-Planning-Team-Bounda/ujhp-tya6",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Dataset-Alerts-Open-and-Monitoring/yd5w-cwmc",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Ethics-Commission-Enforcement-Summaries/pwdy-vqai",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Summary-of-Third-Party-Disclosure/azgs-vep6",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Economy-and-Community/Active-Business-Locations/kvj8-g7jh",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/FPPC-803-Behested-Payment-Report/98wa-4d49",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Public-Safety/FD-CFS-sorted-by-earliest-received-date/sg7s-kczx",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Street-and-Sidewalk-Cleaning/h3eg-w3pj",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Total-Public-Funds-Disbursed-Nove/meps-m9zi",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Economy-and-Community/Registered-Businesses-sorted-by-End-Date/vupz-6rcv",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Status-of-Voluntary-Expenditure-C/4udf-r8p7",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Consultants-List-of-Registered-Campaign-C/x6wh-u6gn",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Housing-and-Buildings/Building-Permits-on-or-after-January-1-2013/p4e4-a5a7",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/COVID-19/COVID-19-Cases-and-Deaths-Summarized-by-ZIP-Code-T/tef6-3vsw",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Economy-and-Community/Open-Business-Location_ID-only/69uz-g9t5",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Public-Safety/Fire-Department-Calls-For-Service-2016-/kikm-y2iv",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Economy-and-Community/Street-Use-Permit-Search/nn8w-ruis",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Public-Safety/Fire-Incidents-Current-Year-2016-/ri9p-p4mm",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Consultants-Client-Payment-Report/be6w-p8an",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Geographic-Locations-and-Boundaries/List-of-Intersections-only/sw2d-qfup",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Consultants-Total-Reported-Activity/muin-vmk6",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Consultants-Political-Contributions/ixwz-4vkh",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-List-of-Candidates-Running-for-Of/tacz-863t",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Consultants-and-Employees/msrx-cenm",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Housing-and-Buildings/Count-of-Eviction-Notices-By-Analysis-Neighborhood/esx7-7kzy",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Economy-and-Community/Street-Use-Contact-List/vpdg-4ask",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Consultants-Comparative-Data/n78n-rpzu",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Consultants-Vendor-Payments/scrx-x3pu",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Consultants-Employment-of-Local-Officehol/mucx-26r4",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Consultants-Appointment-to-Public-Office/8rpe-wxiv",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Housing-and-Buildings/Assessments-by-Year-and-Neighborhood-Code/qxzx-hau5",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/SFEC-Form-126f4-Notification-of-Contract-Approval-/m2xc-rbc2",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/SFEC-3-216-d-Gifts-of-Travel-Filings-March-2015-to/kstr-r6bd",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Individual-Expenditure-Ceilings-I/if98-hdi8",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Housing-and-Buildings/Fire-Inspections-after-01-01-2011/csj3-wszr",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/District-10-Streetlight-Cases/c53t-rr3f",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/Graffiti/vg6y-3pcr",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Housing-and-Buildings/Building-Permits-before-January-1-2013/4jpb-z4kk",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/dataset/SF311-Recent-Cases/d9fx-8m7k",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/StreetTreeList311/eqb2-twsi",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/SFEC-Form-126-Notification-of-Contract-Approval-Pa/wjvm-98qr",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/Code-Enforcement/nyek-jaw8",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/November-2014-Street-Cleaning-TTC/p39p-ttts",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/SFEC-Form-3500-Disclosure-Report-for-Developers/bk74-rima",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Public-Funds-Disbursed-November-6/52dn-hquy",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Summary-of-Third-Party-Disclosure/vmrh-6j3h",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Post-Employment-Restriction-Waivers/pbr9-f6gq",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/Top-311-Cases-By-Category/zd7k-pf58",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/90-Day-Cases-by-District-filtered-view/x3th-utvj",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/Illegal-Dumping-Abandoned-Waste/69p4-z8ht",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Ballot-Measure-Committee-Summary-Totals-November-4/nen9-84ke",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Summary-of-Third-Party-Disclosure/kqxf-nqp7",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Public-Funds-Disbursed-November-8/cf28-zj5k",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Public-Funds-Disbursed-November-4/fdfn-uw2v",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Committee-Summary-Totals-November-3-2015-Election/2dxd-qrye",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/StreetTreeList311/xbdh-uw76",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-List-of-Candidates-Running-for-Of/9j85-b4zp",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Summary-Of-Third-Party-Disclosure/enzs-md7a",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Committee-Summary-Totals-June-7-2016-and-November-/y6rh-uw7y",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Status-of-Voluntary-Expenditure-C/jsqq-yzwn",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Summary-of-Third-Party-Expenditur/7nhx-izy3",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/StreetTreeList311/fivj-ftr7",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Compensated-Advocacy-Ban-Waivers/czgn-4he6",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Status-of-Voluntary-Expenditure-C/tptg-6svb",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/City-Facilities-School-District-SFUSD-Jurisdiction/rxa4-qmcf",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Status-Of-Voluntary-Expenditure-C/fuaw-u76y",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/Economy-and-Community/Unemployment-Insurance-Weekly-Claims-for-San-Franc/wfj8-zxav",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-List-of-Candidates-Running-for-Of/w25t-5ecx",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Status-of-Voluntary-Expenditure-C/m3h2-8kv8",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Status-Of-Voluntary-Expenditure-C/eanp-hz7f",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Public-Funds-Disbursed-November-3/k7ys-57zy",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/Street_Defects/33h6-36bw",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-List-of-Candidates-Running-for-Of/b4ck-zcpf",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Total-Public-Funds-Disbursed-Nove/9vfs-theu",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/D_O/p3by-zqki",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/City-Facilities-Recreation-and-Parks-Jurisdiction-/2mqz-ak5w",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-List-of-Candidates-Running-for-Of/99m9-9s2c",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Contact-Lobbyist-Activity-Contact-of-Public-Offici/5f5n-tdbf",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/Graffiti-cases-September-2017/jpay-t9xt",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/East-Cut/2zvh-56qt",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Public-Funds-Disbursed-November-6/7r9y-ggzd",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/SFEC-Form-126-Quick-View/4jiv-gqjf",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/tjj/gzsc-mm5v",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Individual-Expenditure-Ceilings-I/cay6-xh2d",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Individual-Expenditure-Ceilings-I/dt2y-x6n2",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/2017-Annual-Statement-of-Economic-Interests-SEI-Fo/3fa3-jy59",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Closed-Cases-By-Month/gf8u-4q6r",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/2017-Annual-Statement-of-Economic-Interests-SEI-Fo/cv3a-p6qh",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/2016-Annual-Statement-of-Economic-Interests-SEI-Fo/9bp3-h6bw",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/2015-Annual-Statement-of-Economic-Interests-SEI-Fo/k4vb-8vhj",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/311-Cases-Needle-related-cases-after-January-1-201/7cgr-479f",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/Sample/buzf-b9hq",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Public-Funds-Disbursed-November-3/hy34-q94r",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Timeline-of-Individual-Expenditure-Ceilings-IECs-J/fsas-2wke",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Contact-Lobbyist-Activity-Payments-Received/ycpn-rdee",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/2015-Annual-Statement-of-Economic-Interests-SEI-Fo/68rs-kf87",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/2016-Annual-Statement-of-Economic-Interests-SEI-Fo/nvp2-52i7",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Timeline-of-Individual-Expenditure-Ceilings-IECs-M/6e5x-tedb",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Status-of-Voluntary-Expenditure-C/rzs6-fesm",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/City-owned-Facilities-Fire-and-Police/wt27-4jim",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Expenditure-Lobbyist-Activity-Payments-to-Influenc/tj9j-y748",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/Current-FY-Cases/iy63-pi3t",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/City-Facilities-Public-Library-Jurisdiction-or-Lea/fhhu-wqa7",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Individual-Expenditure-Ceilings-I/2ka8-pawx",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Summary-of-Third-Party-Disclosure/4xaw-e3iw",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Contact-Lobbyist-Activity-ActivityExpenses/if2w-dvn2",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/Blank-Streets/tq9z-bdnj",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Lobbyist-Activity-Campaign-Contributions/e6py-fg8b",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Individual-Expenditure-Ceilings-I/9qbt-c39x",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Lobbyist-Activity-Employments/vq3j-uf24",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/City-Facilities-Public-Utilities-Commission-Jurisd/kpse-iywg",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Total-Public-Funds-Disbursed-June/v48z-yvpf",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Consultants-Political-Contributions-Annua/5rhv-m2xm",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Expenditure-Lobbyist-Activity-Total-Payments/kvaf-8as3",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/City-Facilities-Airport-SFO-Jurisdiction-or-Leased/kkdh-bwgs",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Status-Of-Voluntary-Expenditure-C/hxt3-3n6d",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Public-Funds-Disbursed-November-8/wvik-9jym",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Training-1-Malika/pfvf-gpm6",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Individual-Expenditure-Ceilings-I/2nkf-hz2h",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/Data_Guerrero/q26e-6txm",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/City-Facilities-Port-Jurisdiction-or-Leased/g349-aw44",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Summary-of-Third-Party-Disclosure/p3bz-jynb",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/311-Case-Count-by-Month-and-Source/bi77-ugyj",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Summary-Of-Third-Party-Disclosure/se9i-64cx",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Total-Candidate-Spending-2012-by-Committee/5v2c-ka5e",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Summary-Of-Third-Party-Disclosure/bpzn-ktj2",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Summary-of-Third-Party-Disclosure/jj2c-mktd",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Total-Candidate-Spending-2012-by-Committee-Roll-Up/aszb-mf7u",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Public-Funds-June-5-2018-Election/c5dt-2t5i",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Public-Funds-Disbursed-November-5/paa8-rmz5",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/City-Facilities-Fire-Department-Jurisdiction-or-Le/mt4k-j2ju",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Status-Of-Voluntary-Expenditure-C/pmmb-rdpk",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Summary-Of-Third-Party-Disclosure/dugq-6kz9",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Individual-Expenditure-Ceilings-I/pqq8-wg7t",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Public-Funds-Disbursed-November-3/v62c-m7s4",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Status-of-Voluntary-Expenditure-C/5whh-7ymf",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/City-Facilities-Real-Estate-Division-Jurisdiction-/d6rj-6ccc",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/City-Facilities-Municipal-Transportation-Agency-Ju/fde4-w9ra",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Total-Public-Funds-Disbursed-Nove/mad6-avpr",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/City-Facilities-San-Francisco-Housing-Authority-Ju/bnbq-u9kp",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-List-of-Candidates-Running-for-Of/3yda-ngeq",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Public-Funds-Disbursed-November-4/qaku-43se",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Test_4tts-fyix/weua-2eax",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-List-Of-Candidates-Running-For-Of/segv-m6c2",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Summary-of-Third-Party-Expenditur/8sbi-ct4a",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-List-Of-Candidates-Running-For-Of/dgy7-bcv9",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/City-Facilities-Public-Works-Jurisdiction-or-Lease/mz35-7zbv",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/City-Facilities-Status-of-Women-Jurisdiction-or-Le/kne7-smmq",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/City-Facilities-Treasurer-Tax-Collector-Jurisdicti/k87x-nejr",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/City-Facilities-Fine-Arts-Museums-Jurisdiction-or-/i2zr-ntnx",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/City-Facilities-GSA-Animal-Care-and-Control-Jurisd/hqai-jssw",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/City-Facilities-Arts-Commission-Jurisdiction-or-Le/adrx-qrxk",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/City-Facilities-Civil-Service-Commission-Jurisdict/y8f5-yuwh",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/City-Facilities-Public-Health-Jurisdiction-or-Leas/mefm-p49z",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/City-Facilities-Asian-Art-Museum-Jurisdiction-or-L/p8jq-de2x",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/City-Facilities-Police-Department-Jurisdiction-or-/k6cj-u668",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Status-of-Voluntary-Expenditure-C/uc5c-gcfa",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/City-Facilities-GSA-City-Administrator-s-Office-Ju/spyu-fejr",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/City-Facilities-Emergency-Management-Jurisdiction-/irqf-t4ai",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/City-Facilities-Building-Inspection-Jurisdiction-o/ixwn-dndr",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/City-Facilities-GSA-Medical-Examiner-Jurisdiction-/qtyf-b3xq",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/City-Facilities-Health-Service-System-Jurisdiction/icdz-tqs7",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Public-Funds-Disbursed-November-6/rbkg-s8cg",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/City-Facilities-Treasure-Island-Development-Author/38ha-sn5f",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/City-Facilities-Adult-Probation-Jurisdiction-or-Le/4nn2-tpfz",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/City-Facilities-311-Jurisdiction-or-Leased/5za9-6t55",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/City-Facilities-Controller-Jurisdiction-or-Leased/4y2r-h7gm",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/City-Facilities-Office-of-Contract-Administration-/cp97-aniw",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/City-Facilities-City-College-Jurisdiction-or-Lease/irk9-3vfb",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/test-save/gnsi-z4r2",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/am_cgj/i2v3-m2jj",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/City-Facilities-Community-Investment-and-Infrastru/7mm2-w5vs",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/City-Facilities-Rent-Arbitration-Board-Jurisdictio/9new-ycw8",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Traning-2-Malika/m6b4-69a5",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/City-Facilities-Human-Services-Agency-Jurisdiction/4z8e-gnzt",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/City-Facilities-Child-Support-Services-Jurisdictio/rww3-arqy",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/City-Facilities-War-Memorial-Jurisdiction-or-Lease/srpk-ydkf",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/City-Facilities-Technology-Jurisdiction-or-Leased/xm78-fxvg",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/City-Facilities-Human-Rights-Commission-Jurisdicti/duby-dyjv",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Training-2-Lawrence/83nb-7c3t",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/City-Facilities-District-Attorney-Jurisdiction-or-/xqrt-ajqb",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/City-Facilities-Mayor-Jurisdiction-or-Leased/rfvu-7mcd",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/City-Facilities-Human-Resources-Jurisdiction-or-Le/gisu-qgr3",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/City-Facilities-Retirement-System-Jurisdiction-or-/yhws-u2xv",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/City-Facilities-Board-of-Supervisors-Jurisdiction-/3v4q-rhki",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/City-Facilities-Juvenile-Probation-Jurisdiction-or/52bf-deu2",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/City-Facilities-Board-of-Appeals-Jurisdiction-or-L/crpm-4ehf",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/City-Facilities-Environment-Jurisdiction-or-Leased/nmef-fwfi",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/City-Facilities-Law-Library-Jurisdiction-or-Leased/rq3a-jamn",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/City-Facilities-Public-Defender-Jurisdiction-or-Le/fmmd-hxvf",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Training-1-Lawrence/bn2v-6eqi",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/City-Facilities-Superior-Court-Jurisdiction-or-Lea/dfh5-eeky",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/City-Facilities-Sheriff-Jurisdiction-or-Leased/t7gs-vjea",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/City-Facilities-Elections-Jurisdiction-or-Leased/ksvp-g9cd",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/City-Facilities-Planning-Jurisdiction-or-Leased/nfxf-sv4m",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Infrastructure/City-Facilities-Assessor-Recorder-Jurisdiction-or-/w24m-ky2t",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Public-Funds-Disbursed-November-8/cyzq-ezsf",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Individual-Expenditure-Ceilings-I/d7kq-9vyh",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Total-Public-Funds-Disbursed-Nove/qkhq-y9ts",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Summary-Of-Third-Party-Disclosure/db28-ci99",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Summary-Of-Third-Party-Disclosure/gjrt-e7tf",
+    "scraped": false,
+    "possible": true
+  }
+]
