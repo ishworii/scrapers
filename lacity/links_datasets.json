@@ -1,0 +1,1822 @@
+[
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/Building-and-Safety-Permit-Information-Old/yv23-pmwf",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Administration-Finance/Listing-of-Active-Businesses/6rrh-rzua",
+    "scraped": true,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Transportation/Los-Angeles-International-Airport-LAX-Parking-Lots/dik5-hwp6",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Housing-and-Real-Estate/2014-Registered-Foreclosure-Properties/fdwe-pgcu",
+    "scraped": true,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8",
+    "scraped": true,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Public-Safety/Arrest-Data-from-2010-to-2019/yru6-6re4",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/Posted-Street-Sweeping-Routes/krk7-ayq2",
+    "scraped": true,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Public-Safety/Crime-Data-from-2010-to-2019/63jg-8b9z",
+    "scraped": true,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Payroll/City-Employee-Payroll-2013-2018-/pazn-qyym",
+    "scraped": false,
+    "possible": false
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/Addresses-in-the-City-of-Los-Angeles/4ca8-mxuh",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Purchasing/Checkbook-L-A-Data/pggv-e4fn",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Community-Economic-Development/Immigration-Workshops/2in3-5b7t",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Public-Safety/Traffic-Collision-Data-from-2010-to-Present/d5tf-ez2w",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/Building-and-Safety-Certificate-of-Occupancy/3f9m-afei",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Administration-Finance/Listing-of-All-Businesses/r4uk-afju",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Revenue/City-Revenue/hfus-a659",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Audits-and-Reports/All-City-Funds/ej7u-di9z",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Budget/Idle-Funds/ucfm-mnmk",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Liabilities-and-Assets/Outstanding-Debt-by-Type/qnfz-jscz",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Transportation/Parking-Citations/wjz9-h9np",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/Street-Names/hntu-mwxc",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/Existing-Buildings-Energy-Water-Efficiency-EBEWE-P/9yda-i4ya",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Transportation/LADOT-Traffic-Counts-Summary/94wu-3ps3",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Public-Safety/LAPD-Calls-for-Service-2019/r4ka-x5je",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Public-Safety/LAPD-Calls-for-Service-2020/84iq-i2r6",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Budget/Debt-Cap/wvw6-5jje",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/Building-and-Safety-Code-Enforcement-Case/2uz8-3tj3",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Community-Economic-Development/What-s-Happening-LA-Calendar-Dataset-ARCHIVED/d3th-bqdk",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Budget/City-Budget-and-Expenditures/uyzw-yi8n",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Public-Safety/Vehicle-and-Pedestrian-Stop-Data-2010-to-June-30th/ci25-wgt7",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Statistics/City-of-Los-Angeles-Economic-Data/xtbr-xwes",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Transportation/Los-Angeles-International-Airport-Passenger-Traffi/g3qu-7q2u",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Transportation/Los-Angeles-International-Airport-LAX-Closures/63kx-necw",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Transportation/LADOT-Parking-Meter-Occupancy/e7h6-4a3e",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Public-Safety/LAPD-Calls-for-Service-2014/mgue-vbsx",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Payroll/City-Employee-Payroll-Current-/g9h8-fvhu",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Public-Safety/LAPD-Calls-for-Service-2018/nayp-w2tw",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/LADWP-Water-Supply-in-Acre-Feet/qyvz-diiw",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Public-Safety/Arrest-Data-from-2020-to-Present/amvf-fr72",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Transportation/LADOT-Metered-Parking-Inventory-Policies/s49e-q6j2",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Sanitation/Animal-Services-Intake-Data/8cmr-fbcu",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Community-Economic-Development/Department-of-Recreation-and-Parks-Facility-and-Pa/ax8j-dhzm",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Administration-Finance/Registered-City-Lobbyists/j4zm-9kqu",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/Building-and-Safety-Inspections/9w5z-rg2h",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/Bureau-of-Engineering-Permit-Information/j7mw-thyc",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Community-Economic-Development/2010-Census-Populations-by-Zip-Code/nxs9-385f",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/RAMP-Open-Bid-Opportunities/hf3r-utnq",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Liabilities-and-Assets/City-Owned-Parcels-2015-/enm8-v9bz",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Community-Economic-Development/Census-Data-by-Neighborhood-Council/nwj3-ufba",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Public-Safety/LAPD-Calls-for-Service-2017/ryvm-a59m",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Public-Safety/LAPD-Calls-for-Service-2016/xwgr-xw5q",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Statistics/Demographic-and-Economic-Statistics/9z75-k9sy",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Housing-and-Real-Estate/Zoning-Reference-Table/ikdx-vgub",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Revenue/City-Revenue-by-Month/s234-w655",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Audits-and-Reports/Financial-Documents-and-Reports-for-the-Department/e5hk-hbnp",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/Building-and-Safety-Code-Enforcement-Case-Closed-/q3qu-98vb",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Statistics/Economy-Panel-LA-Data/4ndk-mmc8",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Statistics/Gender-Breakdown-of-City-Workers-by-Department/q45p-mx3u",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Budget/City-Expenditures-by-Month/3ctd-sjrm",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Payroll/Department-of-Water-and-Power-DWP-Pay-Codes/jwzw-nd84",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Community-Economic-Development/Restaurant-and-Market-Health-Inspections/29fd-3paw",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Purchasing/Neighborhood-Council-Checking-Account-Expenditures/dv42-ij6w",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/311-Call-Center-Service-Request-Data-Archived-2013/bpyg-ytsg",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Audits-and-Reports/LADWP-Memorandums-of-Understanding-MOUs-/64fm-qtvn",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/APNs-in-the-City-of-Los-Angeles/qv4c-k9xz",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Arts-Culture/Library-Monthly-Stats/m4ev-cuzz",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Administration-Finance/Open-Budget-Appropriations-Fiscal-Years-2010-2023/5242-pnmt",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Statistics/Gender-Breakdown-of-City-Workers-by-Category/fvfi-5kja",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Arts-Culture/Museum-Visitors/trxm-jn3c",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/LADWP-Power-Outages/r95y-gwez",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/dataset/Food-Resources-in-California/v2mg-qsxf",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Budget/Appropriations-Expenditures-and-Revenues/p37u-c75r",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/dataset/Publicly-Owned-Properties/bawf-ixme",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Housing-and-Real-Estate/Housing-Community-Investment-Service-Locations/29cn-rph9",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/Building-and-Safety-Temporary-Special-Event-TSE-Pe/8spw-3fhx",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Housing-and-Real-Estate/Total-and-Affordable-Housing-Units/rckt-8prm",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Purchasing/Neighborhood-Council-Checking-Account-Expenditures/tbey-u44x",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Housing-and-Real-Estate/LAHD-Affordable-Housing-Projects-List-2003-to-Pres/mymu-zi3s",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Public-Safety/LAPD-Annual-High-Level-Metrics-GOVSTAT-Archived/t6kt-2yic",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Arts-Culture/Library-Branches/a4nt-4gca",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Community-Economic-Development/Census-Data-by-Council-District/ucyn-ru6w",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/Water-Main-Breaks-in-the-City-of-Los-Angeles-Each-/jz5f-87wj",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Administration-Finance/Payments-Made-by-Clients-to-Registered-Lobbying-Fi/h6ky-vznd",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Public-Safety/LAFD-Response-Metrics-Raw-Data/n44u-wxe4",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Arts-Culture/Multipurpose-Senior-Center-Locations/qf8m-dzta",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Public-Safety/LAPD-Calls-for-Service-2015/tss8-455b",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Parks-Recreation/L-A-Zoo-Attendance/3gwn-arjr",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/A-Well-Run-City/Invoices-and-Purchase-Orders-for-City-Goods-and-Su/5ru3-n8sy",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Administration-Finance/Gross-Receipts-by-Industry/yqyr-2qgp",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/Building-and-Safety-Customer-Service-Request/bsvt-chkv",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Community-Economic-Development/Metro-Bike-Share-Trip-Data/sii9-rjps",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Audits-and-Reports/Joint-Training-Institute-JTI-and-Joint-Safety-Inst/4i3e-krmq",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Housing-and-Real-Estate/Cases-Filed-2013-Archived/ckea-5u87",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Administration-Finance/LACERS-Key-Facts-and-Figures-from-Year-End-Financi/63we-p3wv",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Statistics/Operating-Indicators/ienq-vvtk",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Community-Economic-Development/Restaurant-and-Market-Health-Violations/ckya-qgys",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Public-Safety/LAPD-Calls-for-Service-2021/cibt-wiru",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/COVID-19/LA-County-COVID-Cases/jsff-uc6b",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Administration-Finance/Clients-of-Registered-Lobbying-Firms/9z5d-hgrh",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Transportation/Los-Angeles-International-Airport-Passenger-Count-/d3a2-7j6v",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Audits-and-Reports/Joint-Training-Institute-JTI-and-Joint-Safety-Inst/5bd5-md2c",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Payroll/City-Employee-Locations-By-Department/7ct3-9xz9",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/A-Prosperous-City/General-Fund-Revenue/qrkr-kfbh",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Housing-and-Real-Estate/2019-Registered-Foreclosure-Properties/rsxb-x48z",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Housing-and-Real-Estate/2016-Registered-Foreclosure-Properties/4sbs-dcfn",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Payroll/City-Bonus-Codes/6k96-anmy",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Community-Economic-Development/EWDD-Worksource-Center-Program-Performance-Outcome/7w5j-7jjp",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/Street-Tree-Inventory-1990s/vt5t-mscf",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/Building-and-Safety-Permit-Issued-2010-to-now/n9nq-vewq",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Housing-and-Real-Estate/Public-Housing-Sites-Managed-HACLA-2014/vxhy-r447",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/LADWP-Power-Poles-Replaced/t24g-hqix",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Transportation/Los-Angeles-International-Airport-Flight-Operation/ajiv-uc63",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/LADWP-Solar-Incentive-Program/2yrw-q8tw",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Housing-and-Real-Estate/Cases-Completed-2013-Archived/wkek-kqw4",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Liabilities-and-Assets/Assessed-and-Estimated-Actual-Value-or-Property/ivk4-ub4s",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Administration-Finance/Job-Applicants-by-Gender-and-Ethnicity/mkf9-fagf",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/Amount-Of-CO2-Generated-by-LADWP/2qdj-cyiz",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Audits-and-Reports/Affordable-Housing-Monitoring-Data/5gc4-smjq",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/LAcity-org-Website-Traffic/822f-gjp4",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Arts-Culture/Cultural-Centers-Theaters-Historic-Sites-and-Galle/vdjf-if28",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Audits-and-Reports/Joint-Training-Institute-JTI-and-Joint-Safety-Inst/m9sx-5vbj",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Transportation/Los-Angeles-International-Airport-Terminal-Concess/j6u4-c4yh",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Community-Economic-Development/Energy-and-Water-Use-Municipal-Buildings/8m62-bye6",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/Recently-Constructed-Bus-Pads-and-Landings/msv5-mj8x",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Community-Economic-Development/EWDD-Business-Source-Center-Program-Performance-Ob/qqur-fdui",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Arts-Culture/Events-from-LA-Festival-Guide-2014/acy8-72w9",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/Building-and-Safety-Customer-Service-Request-Close/8qjh-sbs9",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Administration-Finance/Performance-Measures/bywz-284j",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Audits-and-Reports/DWP-Audits/viv7-zkxd",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Administration-Finance/City-Projects-and-Agencies-Lobbied-by-Registered-L/4xuf-944h",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Administration-Finance/Avg-Monthly-Service-Pension/skve-7mzv",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Transportation/LADOT-Parking-Meter-Occupancy-Archive/cj8s-ivry",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/Active-Conservation-in-the-City-of-Los-Angeles/txn4-36ky",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Liabilities-and-Assets/Changes-in-Net-Position/b9gd-twyi",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/Port-of-Los-Angeles-Film-Permit-Tracking-2014/geed-7eey",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/Port-of-Los-Angeles-Historical-TEU-Statistics/38a8-tm7u",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/Port-of-Los-Angeles-Port-Air-Quality-2006-2013-/b3i5-86hy",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Administration-Finance/LAFPP-Portfolio-Summary/tnz4-ynvq",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Community-Economic-Development/Open-Budget-Revenue-2010-2023/ih6g-qkwz",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/Port-of-Los-Angeles-Historic-Tonage-Data-MMRT/i9rh-q5gx",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Housing-and-Real-Estate/2018-Registered-Foreclosure-Properties/e6cg-sqdy",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Sanitation/LASAN-Solid-Resources-Abandoned-Waste-Collection-A/97ra-aqza",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/POLA-Quarterly-Financial-Statement-2013-2014/v7gk-cxxi",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/dataset/Every-Animal-Counts/ua8f-ms7p",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Public-Safety/Emergency-Management-Department-Community-Outreach/6xuk-a67v",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/COVID-19/Vaccine-demographic-data/iv7a-6rrq",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/dataset/CAFR-City-Activities-FY19/rwzb-etf8",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Community-Economic-Development/EWDD-Day-Labor-Program/9et4-6fpi",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Arts-Culture/Customer-Survey-Responses/uj6a-ab47",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Transportation/DOT-Traffic-Signal-Trouble-Call-Responses-Within-O/rjdk-rz7f",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Audits-and-Reports/March-1-Revenue-Forecast-Report-2019/frv5-n2hg",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Liabilities-and-Assets/Net-Position-by-Category/87im-rub8",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Housing-and-Real-Estate/2015-Registered-Foreclosure-Properties/f37w-ye7d",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Public-Safety/LAPD-Calls-for-Service-2022/u6ri-98iw",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Administration-Finance/Election-2013-March-Primary-Polling-Place-List/hkig-2qjq",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Transportation/Los-Angeles-International-Airport-Air-Cargo-Volume/tx7r-x3hp",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Sanitation/2017-Community-Wide-Greenhouse-Gas-Emissions/kkrh-b4e3",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Administration-Finance/Member-Health-Subsidy/7ecf-jj8x",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Public-Safety/LAPD-Calls-for-Service-2010/iy4q-t9vr",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/LADWP-Water-Mainline-Replacement/pzs3-fue3",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/What-s-Happening-LA-Calender-Subject-Matter-Catego/746u-cr6b",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Public-Safety/Emergency-Management-Department-Community-Outreach/4k67-bwgi",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Audits-and-Reports/CAFR-City-Activities-2018-Full-/yvi8-2wdp",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Audits-and-Reports/CAFR-City-Activities-2018/rjuk-za26",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Administration-Finance/Election-2014-August-LAUSD-District-1-Polling-Plac/aeva-nfqz",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Public-Safety/Emergency-Management-Department-Responder-Training/mbhz-6it5",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Public-Safety/Emergency-Management-Department-Community-Outreach/iz9s-qc6r",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/Port-of-Los-Angeles-Emissions-Reduction-Percentage/aiix-duyv",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Community-Economic-Development/Water-Capture-by-Method/xe35-4wsy",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/Bureau-Of-Street-Lighting-BSL-Performance-Metrics/5y5q-d9ew",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Administration-Finance/Election-2015-May-General-Voting-Results/fhm9-882e",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/DWP-Quarterly-Cumulative-In-Basin-Solar-Installmen/4g57-9wbx",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Audits-and-Reports/Public-Art/ejf8-ekfc",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Housing-and-Real-Estate/Cases-Filed-2015/6rvp-amz7",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/dataset/LGBTQ-Resources/favk-g8ii",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Audits-and-Reports/JTI-JSI-Conference-and-Meeting-Expenditures-By-Typ/2j43-fbmc",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/LADWP-Power-Supply-Since-2003/hmiy-sxh5",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/Port-of-Los-Angeles-TEU-Counts-Monthly-And-Calenda/tsuv-4rgh",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/LADWP-Once-Through-Cooling-OTC-/hsmw-wwd6",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/COVID-19/Vaccination-Rates-by-Neighborhood/7yet-b6aj",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Arts-Culture/Cultural-Special-Events-at-El-Pueblo-Historical-Mo/8sbu-dvfy",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Audits-and-Reports/Financial-Reports-Documents/uu9w-6f5z",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Transportation/DOT-Total-Miles-Of-Bicycle-Lanes-And-Paths-Chart/pnat-cnpj",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Sanitation/Green-Infrastructure-Water-Capture-Capacity/pdbw-x3k8",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/DWP-Percentage-Of-Water-Purchased-From-MWD-Each-Fi/8yaq-2fpu",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Housing-and-Real-Estate/2020-Registered-Foreclosure-Properties/kde4-k7yx",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Administration-Finance/Election-2013-March-Primary-Voting-Results/tfsb-fwmw",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Public-Safety/All-Stations-Response-Metrics/kszm-sdw4",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/LADWP-Energy-Efficiency-for-FY-13-14/4ftr-pfem",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Budget/Revenue-Budget-and-Receipts/6cbx-e2fd",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Revenue/Tax-Revenues-by-Source-Governmental-Funds/c9g5-c8dy",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/Mayor-s-ED-No-5-GPCD-Target-Progress/ubph-b4it",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/COVID-19/Neighborhood-level-COVID-data/fvye-93wd",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/What-s-Happening-LA-Calender-Type-of-Event-Categor/si79-fpzd",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Public-Safety/LAPD-Calls-for-Service-2012/i7pm-cnmm",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Audits-and-Reports/Year-Start-Reserve-Fund-Balances/psnd-s8uq",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/Port-of-Los-Angeles-ADP-Project/s5jy-jcce",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/Location-of-FY-2014-Curb-Ramps-Installed/cu97-7vhd",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/-/William-Mead-Homes-Age-Sex-Profile/jxqs-eipk",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/Port-of-Los-Angeles-Single-Audit-Report-2013/xhx7-hr4h",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Arts-Culture/El-Pueblo-Tours/diev-46hg",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/Building-and-Safety-Permit-Submitted-from-2010-to-/ct5r-6sgd",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Finance/COVID-19-Spending/3sn9-wkuu",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/COVID-19/Vaccines-by-California-County/rpp7-mevy",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/LADWP-Solar-Interconnection-Time/m5ec-bb8m",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Community-Economic-Development/Great-Streets-Pedestrian-Survey-2015/6yv9-t9gq",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Arts-Culture/Work-Orders-Completed-El-Pueblo-Historical-Monumen/nsdh-74d5",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Sanitation/LASAN-S-A-F-E-Solvents-Automotive-Flammables-E-Was/t8kf-2y96",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/Recycled-Water-Delivered-in-the-City-of-Los-Angele/f4qc-fg29",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/BSL-Percent-Of-Streetlight-Outages-Repaired-Within/fc3u-86zh",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/Eastern-Sierra-Overall-Snow-Pack/4a8d-4327",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/Rain-Barrels-And-Cisterns-Issued-Through-LADWP-Reb/a5vt-xsyi",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Public-Safety/LAPD-Calls-for-Service-2013/urhh-yf63",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Parks-Recreation/LAPARKS-ORG-Recreation-and-Parks-Facilities/ukgg-rgf9",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/Total-Bills-Vs-Estimated-Bill-at-LADWP/svt7-r3ww",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/POLA-Emissions-From-Port-Operations-NOx-SOx-DPM/k98w-s24w",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Audits-and-Reports/Energy-Sold-by-Type-of-Customer/irca-ezpb",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Arts-Culture/Rental-Contracts-Completed-at-El-Pueblo-Historical/t5zm-4d79",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Administration-Finance/Election-2015-May-General-Polling-Place-List/i5g3-9vuz",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Community-Economic-Development/Open-Data-Website-Traffic/d4kt-8j3n",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Audits-and-Reports/HHH-Projects-2019/m5ws-fquu",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Administration-Finance/Positions/46qe-t7np",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Housing-and-Real-Estate/Cases-Completed-2015/c8zs-6yn8",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Administration-Finance/Election-2013-May-General-Polling-Place-List/rnxp-tz2v",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Transportation/Monthly-Dockless-Vehicles-Trip-Start-By-Census-Blo/d7jk-ufat",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Transportation/Los-Angeles-International-Airport-LAX-Object-Locat/r8xf-vixa",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/BSL-Cumulative-Number-Of-Streetlights-Converted-To/pwhu-m93q",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Administration-Finance/Employer-Contrib/a6cj-i5wu",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Audits-and-Reports/HHH-Projects-2020/29u2-qeci",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Public-Safety/LAPD-Calls-for-Service-2011/4tmc-7r6g",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Community-Economic-Development/Great-Streets-Business-Survey-2015/m27g-4avd",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/What-s-Happening-LA-Calender-Age-Groupings-Categor/jx82-7rs5",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Transportation/Arts-District-Pedestrian-and-Bike-Counts-LA-CoMoti/mbz9-j2zk",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Administration-Finance/Election-2015-March-Primary-Polling-Place-List/h5ci-ugt3",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/dataset/2019-Walk-Bike-Count-Data/m6qi-ifup",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/Feed-in-Tariff-Solar-Program/r3up-67wh",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Transportation/Monthly-Dockless-Vehicles-Deployment-By-Census-Blo/j5g7-w4y7",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Public-Safety/Station-Response-Metrics-Updated/4hqz-rxff",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/Port-of-Los-Angeles-Cruise-Passenger-1990-2014-/jmt8-y5rm",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/ITA-Monthly-Downloads-My-LA-311-App/tsrc-szkh",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Housing-and-Real-Estate/Cases-Filed-2014/qwzb-77da",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Transportation/LA-Express-Park-Project-Area/895k-6zuw",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Arts-Culture/Arts-Ed-Profile/f232-7zb7",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/Renewable-Projects-Since-2003/xuce-e6ip",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Administration-Finance/Election-2015-March-Primary-Voting-Results/ce5i-q2bc",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Housing-and-Real-Estate/Case-Filed-2016/5aw2-jx4k",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/DWP-Renewables-Percentage-Annual/95j2-9tdv",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Housing-and-Real-Estate/2021-Registered-Foreclosure-Properties/spg4-9ux7",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/LADWP-Stormwater-Capture-by-Fiscal-Year/p8nc-6hdi",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Administration-Finance/Asset-Inventory/4qmh-sz39",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Transportation/LADOT-Parking-Calendar-Sign-Locations/jp2s-nfz4",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/Spreading-Grounds-Centralized-Monthly-Capture/cy8h-q3bu",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Community-Economic-Development/EWDD-Youth-Source-Center-Program-Performance-Outco/3kce-7yuf",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/POLA-Finance-Annual-Financial-Report-CAFR-FY12-FY1/jdgw-bwcf",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Housing-and-Real-Estate/2017-Registered-Foreclosure-Properties/r53k-qp8f",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/Constants-Table-for-Stormwater-Capture-Dashboard/jyyg-7bst",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Administration-Finance/Election-2013-March-Primary-Candidate-List/gr27-eza8",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Public-Safety/Citywide-Response-Metrics/adam-59ei",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Administration-Finance/General-City-Budget-Incremental-Changes/k4k6-bwwv",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Community-Economic-Development/Municipal-Building-Electricity-Usage/w7j2-5kjf",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/Port-of-Los-Angeles-Workers-Compensation-Light-Dut/gvpf-vb3s",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Community-Economic-Development/Datasets-Freshness-Report/5h3p-n236",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Administration-Finance/Election-2013-May-General-Voting-Results/iz73-c344",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/BSS-Pavement-Preservation-Annual-Data/qer2-sxr5",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Community-Economic-Development/YouthSource-Centers-Location-and-Contact-Informati/cuid-a8rp",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Liabilities-and-Assets/Ratios-of-General-Bonded-Debt-Outstanding-and-Lega/is8h-jh3i",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Arts-Culture/Port-Of-Los-Angeles-Adopted-Budget-2010-2014/du8q-hww5",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Public-Safety/Citywide-Response-Metrics-Updated/kcsj-s69p",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Administration-Finance/City-Campaign-Contributions-and-Misc-Increases-to-/m6g2-gc6c",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Budget/Enterprise-Pledged-Revenue-Coverage/ppqu-esu9",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Housing-and-Real-Estate/Cases-Completed-2014/kziq-k4au",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/Zip-Codes-within-the-City-of-Los-Angeles/hfdw-5uq2",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Community-Economic-Development/Fused-Maps/dw2y-59sj",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/DWP-Power-Sourced-From-Coal-Chart/9hxb-dad7",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Housing-and-Real-Estate/Case-Completed-2016/bdy2-fgym",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/DBS-Performance-Plan-Check-Development-Services-Co/c8jn-ua56",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Community-Economic-Development/LA-City-Department-and-Program-Descriptions/cd49-p4un",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Community-Economic-Development/YouthSource-Center-Program-Performance-Outcomes-fo/8pn8-5zdt",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Administration-Finance/Funded-Status/e2fp-yzdz",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Audits-and-Reports/Dept-Employment-and-Expenses-CAFR-2018/a2n7-gr2a",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Community-Economic-Development/Los-Angeles-BusinessSource-Centers-Micro-PreStartu/ptdy-3ivc",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/Port-of-Los-Angeles-Historic-Tonage-Data-Short-Ton/5a4i-e2zs",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/Port-of-Los-Angeles-Workers-Compensation-New-Claim/s2gq-nz3r",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Arts-Culture/Payment-Data-Version-2/3qv2-p4kj",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/Port-of-Los-Angeles-Workers-Compensation-Benefits-/v3my-p6u5",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Community-Economic-Development/LAcity-org-Website-Traffic-Page-Views/ni7t-83qi",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Audits-and-Reports/City-Art-Collection/dveq-hhce",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/COVID-19/LA-County-COVID-Testing/w9vh-pj9e",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Community-Economic-Development/Municipal-Building-Gas-Usage/s2f8-v3rp",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Public-Safety/LAPD-RIPA-AB-953-STOP-Person-Detail-from-7-1-2018-/bwdf-y5fe",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Transportation/LADOT-Re-Striping-After-Slurry-Metrics-FY-13-14/vt7b-3i5m",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Administration-Finance/Election-2014-August-LAUSD-District-1-Voting-Resul/v5uj-jj3r",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/dataset/DWP-IEA-Metrics/c85w-qum2",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Transportation/2016-Walk-To-School-Day-Registration-Online-Report/cq4z-inke",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Transportation/Sign-Line-Task-Work-Order-Data/86ry-dcuc",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Community-Economic-Development/Black-Owned-Businesses-in-Los-Angeles/vygi-vxyg",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/Port-of-Los-Angeles-Emission-from-Port-Operations-/2t3h-my34",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Community-Economic-Development/Los-Angeles-BusinessSource-Centers-Micro-Startups-/jg4k-s4ud",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Administration-Finance/Testing-DataSync/avzn-825x",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Administration-Finance/Behested-Payment-Reports/ybqa-gmkn",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Sanitation/2016-Community-Wide-Greenhouse-Gas-Emissions/bb9g-p6se",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/Building-and-Safety-Permit-Submitted-before-2010/giv9-aeqf",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Audits-and-Reports/Art-Centers/gfb7-edzm",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Public-Safety/LAPD-RIPA-AB-953-STOP-Incident-Details-from-7-1-20/5gp9-8nrb",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/dataset/Youth-Programs-In-L-A-/h47n-gfuh",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Community-Economic-Development/YouthSource-Center-Program-Performance-Outcomes-Ju/ddvb-suge",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Administration-Finance/Election-2013-May-General-Candidate-List/x9tj-p4jm",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Administration-Finance/Election-2017-May-General-Polling-Place-List/secn-jf4e",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/Building-and-Safety-Permit-Issued-before-2010/ffas-n9hu",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/dataset/Small-Business-Emergency-Microloans/8s4w-khwv",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/dataset/CAFR-2015-Operating-Indicators-And-Capital-Assets/4z7b-hd3w",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Audits-and-Reports/DWP-Wildfires/ri9s-i2sb",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Administration-Finance/Election-2017-May-General-Candidate-List/qq5r-inr7",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Administration-Finance/City-Campaign-Expenditures/5mrt-4zhe",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Sanitation/2013-Community-Wide-Greenhouse-Gas-Emissions/fw6y-ht9f",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Community-Economic-Development/WorkSource-Center-Program-Performance-Outcomes-for/8qhs-wikn",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Housing-and-Real-Estate/LAHD-City-Council-Districts/5xud-uf84",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Administration-Finance/City-Campaign-Statements-Filed/br3a-db9a",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Administration-Finance/LACERS-Target-Asset-Allocation/ftgd-xwi4",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/dataset/Latino-Historical-Sites/8tiv-seqc",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/Building-and-Safety-Mechanical-Permit-Issued-2010-/8vs5-f8hp",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/Building-and-Safety-Electrical-Permit-Submitted-be/vtsz-6eht",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Sanitation/2015-Community-Wide-Greenhouse-Gas-Emissions/f4qm-39q9",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Community-Economic-Development/Los-Angeles-BusinessSource-Centers-Operating-Busin/tp35-mfg9",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Sanitation/2014-Community-Wide-Greenhouse-Gas-Emissions/u3bu-it6d",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Community-Economic-Development/Business-Source-Center-Program-Performance-Objecti/e2zz-y53s",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Historic-Preservation/Building-and-Safety-Mechanical-Permit-Submitted-20/pxhh-tgsi",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Housing-and-Real-Estate/2022-Registered-Foreclosure-Properties/6hte-wqh2",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/dataset/CAFR-City-Activities-2018-III/78r3-jz5w",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/LA-City-Events-2022-/9aw9-mn4p",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/Building-and-Safety-Electrical-Permit-Issued-2010-/w3bs-2b8n",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Community-Economic-Development/WorkSource-Center-Program-Performance-Outcomes-for/x5zv-ey8w",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/Building-and-Safety-Mechanical-Permit-Issued-befor/fbm7-w3w7",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Community-Economic-Development/Day-Labor-Program-Performance-Outcomes-for-PY-17-1/tigc-6qke",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Administration-Finance/Budget-Program-Descriptions-FY-2017-2018/c4sv-pw36",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/Building-and-Safety-Electrical-Permit-Issued-befor/kxbe-xf63",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/COVID-19/PPP-Loans-in-the-City-of-Los-Angeles/bkfc-yqhx",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Audits-and-Reports/30-Year-Revenue-Breakdown/yi9p-z2gr",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Administration-Finance/Election-2017-May-General-Voting-Results/qpi4-ig3x",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/Building-and-Safety-Electrical-Permit-Submitted-20/9aqu-9z3k",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Community-Economic-Development/Business-Source-Center-Program-Performance-Objecti/c9di-tijr",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Community-Economic-Development/Day-Labor-Program-Performance-Outcomes-for-PY-16-1/az2u-ixwi",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Budget/Debt-Estimated-Debt-Service-Requirements/7r76-mmgs",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Budget/Debt-Ratio-of-Debt-Service/63dj-e5q6",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/City-Infrastructure-Service-Requests/Building-and-Safety-Mechanical-Permit-Submitted-be/yszd-nt64",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Administration-Finance/Women-Minority-Owned-Businesses/hwpe-qxka",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Community-Economic-Development/Business-Source-Center-Program-Performance-Objecti/snhr-fa63",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Community-Economic-Development/Business-Source-Center-Program-Performance-Objecti/nbre-engz",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Community-Economic-Development/WorkSource-Centers-Location-and-Contact-Informatio/u4wk-p2cm",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Community-Economic-Development/Business-Source-Center-Program-Performance-Objecti/b2qw-5tjn",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Community-Economic-Development/Business-Source-Center-Program-Performance-Objecti/6inw-egb2",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Community-Economic-Development/Business-Source-Center-Program-Performance-Objecti/3aii-bde7",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/dataset/American-Rescue-Plan-Proposed-2021-22-Budget/ej2v-yd79",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Community-Economic-Development/Business-Source-Center-Program-Performance-Objecti/pt99-74gb",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Community-Economic-Development/Business-Source-Center-Program-Performance-Objecti/kkqy-ryqv",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Audits-and-Reports/Debt-Bonds/4cqx-8rqs",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Administration-Finance/Business-Registration-by-Fiscal-Year/6qbs-9m8d",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Housing-and-Real-Estate/Reason-For-Mortgage-Denial-By-Race-From-2018-to-20/hc57-9a3j",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/dataset/African-American-Heritage-Sites-in-Los-Angeles/9u4y-6adc",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Housing-and-Real-Estate/Percent-Of-Denied-Mortgage-Loan-Applications-By-Ra/fdtv-2wce",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Housing-and-Real-Estate/Percent-Of-Denied-Mortgage-Loan-Applications-By-Ra/ruu2-p7fw",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Housing-and-Real-Estate/Time-Series-Mortgage-Denials-By-Race/argd-k3xu",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://data.lacity.org/Housing-and-Real-Estate/LA-Council-Districts-Dec-2021/pxeu-7j74",
+    "scraped": false,
+    "possible": true
+  },
+  {
+    "link": "https://controllerdata.lacity.org/Payroll/Salary-Rate-for-Elected-Officials/i2m4-kg2v",
+    "scraped": false,
+    "possible": true
+  }
+]
